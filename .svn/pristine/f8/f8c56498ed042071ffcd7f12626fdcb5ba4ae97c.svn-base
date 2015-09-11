@@ -1,0 +1,227 @@
+/*******
+ description:公用样式;
+ author:chenlin;
+ date:2013-08-16;
+ *********/
+@import "reset.css";
+/************************************public***********************************/
+
+/*clearfix*/
+.clearfix:after{content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+.clearfix{zoom:1;}/*for ie6*/
+.clear{clear:both;}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.linkmore {
+    text-align: right;
+    padding: 0 14px 7px 0;
+    font: bold 12px/2 "微软雅黑";
+}
+
+.linkmore a {
+    color: #c4a730;
+}
+
+/************************************widget***********************************/
+.icon_tel, .icon_hot, .btn_config, .btn_link {
+    display: inline-block;
+    background: url(img/icon.png) no-repeat;
+}
+
+.icon_tel {
+    width: 11px;
+    height: 14px;
+    background-position: 0 -60px;
+    vertical-align: middle;
+}
+
+.icon_hot {
+    width: 17px;
+    height: 19px;
+    background-position: -15px -60px;
+    margin-left: 5px;
+    vertical-align: top;
+}
+
+.btn_config {
+    width: 200px;
+    height: 45px;
+    border: 0 none;
+    background-position: 0 -230px;
+    cursor: pointer;
+}
+
+.btn_link {
+    width: 132px;
+    height: 37px;
+    font: 12px/37px "微软雅黑";
+    color: #FFFFFF;
+    background-position: 0px -280px;
+    text-align: center;
+}
+
+/************************************header***********************************/
+.header {
+}
+
+.header_wrap {
+    width: 100%;
+}
+
+.header .logo {
+    float: left;
+    width: 370px;
+}
+
+.header .mainnav {
+    float: left;
+    width: 100%;
+    font-family: "微软雅黑";
+}
+
+.header .imgbox {
+    float: left;
+    padding: 28px 11px 0 2px;
+}
+
+.header .intro {
+    float: left;
+    height: 53px;
+    background: url(img/icon.png) no-repeat;
+    padding-left: 15px;
+    font-family: "微软雅黑";
+}
+
+.header .intro p {
+    line-height: 16px;
+    padding: 7px 0 0 0;
+}
+
+.header .intro em {
+    font: bold 16px/1 Arial;
+    color: #ab7c12;
+    vertical-align: -1px;
+    _vertical-align: 0px;
+}
+
+.header .intro b {
+    margin-right: 5px;
+}
+/*导航*/
+.nav{ width:500px; height:30px; line-height:30px; color:#fff; background:#434343; }
+.nav a{ display:inline-block; padding:0 10px; height:30px; line-height:30px; font-size:16px; color:#fff; font-family:"微软雅黑"; text-decoration:none;}
+.nav a:hover{ color:#fff; text-decoration:underline;}
+
+
+.mainnav li {
+    float: left;
+    margin-right: 2px;
+    position: relative;
+    z-index: 2;
+}
+
+.mainnav li h5 a {
+    display: inline-block;
+    padding:54px 18px 39px;
+    border-bottom: 5px solid #ffffff;
+    font: bold 14px/16px "微软雅黑";
+    color: #9b741a;
+    height: 16px;
+}
+
+.mainnav li h5 a:hover {
+    color: #333333;
+}
+
+.mainnav li.on h5 a {
+    border-bottom-color: #ab7c12;
+    color: #333333;
+    background: #e8e8e8;
+}
+
+.mainnav .expand {
+    position: absolute;
+    border: 1px solid #4d4b39;
+    background: #434343;
+    width: 170px;
+    left: 0px;
+    top: 114px;
+    z-index: 2;
+    display: none;
+    font-family: "微软雅黑";
+    font-size: 14px;
+}
+
+.mainnav .expand p {
+    padding: 5px 0 13px 0;
+}
+
+.mainnav .expand a {
+    display: inline-block;
+    line-height: 36px;
+    color: #cccccc;
+    padding-left: 19px;
+    width: 151px;
+}
+
+.mainnav .expand a:hover {
+    background: #626262;
+    color: #fffb92;
+}
+
+.mainbody {
+    width: 500px;
+}
+
+.footer {
+    border-top: 1px solid #303030;
+    background: #434343;
+    margin-top: 15px;
+}
+
+.footer_wrap {
+    width: 100%;
+    margin: 0 auto;
+    color: #d5d5d5;
+}
+
+.parterlist li {
+    float: left;
+    padding: 15px 32px 40px 34px;
+}
+
+.parterlist .imgbox {
+    float: left;
+    margin-right: 14px;
+    _margin-right: 11px;
+}
+
+.parterlist .intro {
+    overflow: hidden;
+    line-height: 18px;
+    font-size: 14px;
+    padding-top: 3px;
+    font-family: "微软雅黑";
+}
+
+.parterlist .sina .intro {
+    padding-top: 12px;
+}
+
+.copyright {
+    text-align: left;
+    padding-bottom: 20px;
+}
+.areaFontIndex {
+    font-size: 14px;
+    font-family: "微软雅黑";
+}
+.areaFont {
+    font-size: 14px;
+    font-family: "微软雅黑";
+    padding-bottom: 5px;
+}

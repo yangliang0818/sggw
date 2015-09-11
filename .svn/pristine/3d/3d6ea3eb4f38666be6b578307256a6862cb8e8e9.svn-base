@@ -1,0 +1,94 @@
+<%@ taglib prefix="s" uri="/struts-tags" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib uri="/struts-tags" prefix="s" %>
+<html>
+<head>
+    <TITLE>交通事故_医疗事故_伤残鉴定_事故咨询_事故问-遇到事故你就问</TITLE>
+    <META name="keywords" content="伤残鉴定,伤残等级,交通事故鉴定,医疗事故鉴定">
+    <meta name="description" content="伤残鉴定、伤残等级、交通事故鉴定、医疗事故鉴定咨询；争议性鉴定报告评估；专业律师委托；专家证人出庭。全方位事故处理专业服务，费用更低，权益更有保障。" />
+    <jsp:include page="keyword.jsp?pagename=wm"></jsp:include>
+    <META name="keywords" content="${keyword}">
+    <META content="MSHTML 6.00.2900.6182" name=GENERATOR>
+    <META http-equiv=Content-Type content="text/html; charset=utf-8">
+    <META http-equiv=Expires content=0>
+    <META content=NOHTMLINDEX name=ROBOTS>
+    <LINK href="css/main.css"
+          type=text/css rel=stylesheet>
+</head>
+<BODY class=body>
+<FORM>
+    <!--LOGO-->
+    <div>
+        <jsp:include page="logo.jsp"></jsp:include>
+    </div>
+    &nbsp;<br>
+    <!--菜单栏-->
+    <DIV class=topNavContainer>
+        <jsp:include page="menu.html"></jsp:include>
+    </div>
+    &nbsp;<br>
+    &nbsp;<br>
+    &nbsp;<br>
+    <!--正文部分-->
+    <div>
+        <!--左边导航-->
+        <div class="inlineDiv">
+            <jsp:include page="navigation.html"></jsp:include>
+        </div>
+        <!--正中部分-->
+        <div style="width: 56%" class="inlineDiv">
+            <p class="areaFont" align="center"><B>花一分钟了解我们</B></p><BR>
+            <p class="areaFont">
+            在交通事故、医疗事故或其他事故的处理中，经常会涉及到很多专业性问题，如：人体伤残情况、死亡原因、人体损伤原因、事故发生原因、交通事故车速等。这些专业性问题超出了一般律师的能力范围，但往往对事故的调解、诉讼、理赔具有关键影响。
+
+            事故问（www.shiguwen.com）是一个以提供事故中的专业性问题咨询服务的网站。我们的专业服务主要包括：
+            </P><BR>
+            <p class="areaFont">
+            - 专业资料分析与评估（车速、事故成因、死因、伤残等级等报告；照片、视频、书面材料等其他专业资料）
+            </p><BR>
+            <p class="areaFont">
+            - 联系合适的司法鉴定机构进行鉴定
+            </p><BR>
+            <p class="areaFont">
+            - 专家证人出庭服务
+            </p><BR>
+            <p class="areaFont">
+            我们的专家团队由国内多个司法鉴定机构的技术负责人或技术骨干组成，专业涵盖了法医学、临床医学、车辆工程、力学等各相关领域。无论您遇到什么样的专业问题，专家都可借助扎实的专业功底与丰富的从业经验，联合为您提供最优解决方案。这种“跨机构专家联合”的方式具有很强的说服力，尤其在双方的专业性结论冲突，或难以进行鉴定时。必要情况下，我们还可提供专家证人出庭等深度支持，使您的合法权益最大化。
+
+            <BR><BR>我们与国内多个司法鉴定机构保持良好的关系。如果您有鉴定方面的需求，我们可根据您的实际情况，帮助您选择合适的鉴定机构。我们的专家将协助这些鉴定机构，为您提供严谨的服务。
+
+            <BR><BR>此外，我们的专家与律师可结为一体，为您提供“一站式”服务，以增大胜诉概率，并节省您的时间与精力。<BR><BR>
+                <p class="areaFont" align="center"><B>关于事故问，您需要了解的问题</B><BR><BR></p>
+                <p class="areaFont">
+                <B>1、哪些“专业性问题”需要事故问的帮助？</B><BR>
+                答：事故发生原因、人身伤亡原因、人体伤残情况、交通事故车速、气囊安全质量等问题，属于对事故的理赔、诉讼具有决定性影响的专业性问题，处理这些问题都需要事故问的帮助。其中：<BR><BR>
+                    - 事故发生原因、人身伤亡原因：直接决定了谁对事故负责，谁应该进行赔偿。根据不同的事故类型，需要用到痕迹学、法医学、临床医学、车辆工程、力学等专业知识。<BR><BR>
+                    - 人体伤残情况：直接决定了赔偿金额的大小，需要用到医学专业知识。<BR><BR>
+                    - 交通事故车速：对责任划分与赔偿比例具有关键影响，需要用到车辆工程、力学、痕迹学等专业知识。<BR><BR>
+                    - 气囊安全质量：直接决定了在发生气囊质量事故后，消费者是否应该向汽车厂家索赔。需要用到气囊检验专业知识。<BR><BR><BR>
+                <B>2、事故问能够提供司法鉴定吗？</B><BR>
+                答：事故问作为一个专业的事故咨询平台，整合了很多优秀的司法鉴定资源。借助于这些资源，可以为您提供各种类型的事故司法鉴定。<BR><BR>
+                <B>3、事故问有何优势？</B><BR>
+                答：事故问最大的优势在于，可以为您提供全方位的专业帮助，而不局限于司法鉴定。对于那些难以鉴定、或鉴定结论不明确的案子，尤其需要我们的帮助。从专业性材料的审核，到出具专家意见报告，再到提供理赔诉讼策略，直至提供专家辅助人帮您进行理赔诉讼，在事故处理的全过程中，都有事故问的参与支持，以最大程度维护您的合法权益。<BR><BR>
+                <B>4、专家辅助人是怎么回事？</B><BR>
+                答：最高人民法院《民事证据规定》第61条规定：“当事人可以向人民法院申请一至二名具有专门知识的人员出庭就案件的专门性问题进行说明”，其中的“具有专门知识的人员”即为“专家辅助人”。通过专家辅助人，可增强对专业性问题的表述与质证能力，以取得好的庭审效果。由于专家辅助人具备专业性的知识与相关资质，因而其观点更具有说服力，更易为法庭所采纳。<BR><BR>
+                <B>5、应该何时请事故问介入我的案子？</B><BR>
+                答：越早让我们介入您的案子，对您的理赔、诉讼越有利。有的委托人在一审败诉，甚至终审败诉后才找到我们，其实已经错过了最佳时机，大大增加了后续处理的难度。<BR><BR>
+                <B>6、事故问的服务受地域限制吗？</B><BR>
+                答：我们的服务不受地域限制，我们已经为来自全国各地的委托人提供过服务。<BR><BR><BR><BR>
+                </p>
+        </div>
+        <!--右边部分-->
+        <DIV class=RightColumn>
+            <jsp:include page="rightFrame.jsp"></jsp:include>
+        </DIV>
+    </div>
+</form>
+<!--版权部分-->
+<div>
+    <jsp:include page="copyright.html"></jsp:include>
+</div>
+</body>
+</html>

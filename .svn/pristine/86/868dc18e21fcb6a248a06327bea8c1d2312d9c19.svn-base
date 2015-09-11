@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>事故问-提供全方位的事故处理专业服务</title>
+		<link href="../css/index.css" type="text/css" rel="stylesheet" />
+		<script src="../js/jquery.js"></script>
+        <script src="../js/plugin.js"></script>
+        <script src="../js/slideShow.js"></script>
+        <script src="../js/tabShow.js"></script>
+	</head>
+	<body>
+	   <!--header begin -->
+       <div class="header">
+       	 <div class="cols header_wrap">
+       	 	 <div class="logo">
+       	 	    <h1 class="imgbox"><a href="#"><img src="../images/logo.jpg" alt="事故问" width="130" height="58" /></a></h1>
+       	 	    <div class="intro">
+       	 	    	<p><b class="icon_tel"></b>客服电话：<em>400-021-9060</em></p>
+       	 	    	<p>提供全方位的事故处理专业服务</p>
+       	 	    </div>
+       	 	 </div>
+       	 	 <div class="mainnav"  mod-type="TabShow">
+       	 	 	<ul class="cols">
+       	 	 		<li  class="on">
+       	 	 			<h5><a href="#" title="">首页</a></h5>
+       	 	 		</li>
+       	 	 		<li>
+       	 	 			<h5><a href="#" title="">网站简介</a></h5>
+       	 	 		</li>
+       	 	 		<li mod-comp="TabShow-Item">
+       	 	 			<h5><a href="#" title="">服务项目</a></h5>
+       	 	 			<div class="expand" mod-comp="TabShow-Item-Expand">
+       	 	 			   <p><a href="#">专业资料分析</a></p>	
+       	 	 			   <p><a href="#">专家出庭服务</a></p>	
+       	 	 			   <p><a href="#">一站式理赔诉讼支持</a></p>	
+       	 	 			   <p><a href="#">行车记录仪数据分析</a></p>	
+       	 	 			</div>
+       	 	 		</li>
+       	 	 		<li><h5><a href="#" title="">专家顾问</a></h5></li>
+       	 	 		<li><h5><a href="#" title="">合作鉴定机构</a></h5></li>
+       	 	 		<li><h5><a href="#" title="">联系我们</a></h5></li>
+       	 	 	</ul>
+       	 	 </div>
+       	 </div>
+       </div>
+       
+       <!-- mainbody begin-->
+       <div class="mainbody">
+	       <!-- part01 begin-->
+	       <div class="cols part01">
+	       	   <!-- left begin-->
+	       	   <div class="findbox">
+	       	   	  <div class="searchform">
+	       	   	  	<form name="" action="">
+	       	   	  		<div class="formItem cols">
+	       	   	  			<div class="option">
+	       	   	  				<label>您的需求</label>
+	       	   	  				<div class="selectBox">
+	       	   	  					<select class="select">
+	       	   	  						<option>寻找律师</option>
+	       	   	  						<option>寻找问题</option>
+	       	   	  						<option>寻找</option>
+	       	   	  					</select>
+	       	   	  				</div>
+	       	   	  			</div>
+	       	   	  			<div class="option">
+	       	   	  				<label>问题分类</label>
+	       	   	  				<div class="selectBox">
+	       	   	  					<select class="select">
+	       	   	  						<option>交通事故</option>
+	       	   	  						<option>寻找问题</option>
+	       	   	  						<option>寻找</option>
+	       	   	  					</select>
+	       	   	  				</div>
+	       	   	  			</div>
+	       	   	  		</div>
+	       	   	  		<div class="formItem">
+	       	   	  			<div class="option">
+	       	   	  				<label>所在地区</label>
+	       	   	  				<span>
+		       	   	  				<input type="text" class="inputbox" />
+	       	   	  				    <em>省</em>
+	       	   	  				</span>
+	       	   	  				<span>
+		       	   	  				<input type="text" class="inputbox" />
+	       	   	  				    <em>市</em>
+	       	   	  				</span>
+	       	   	  				<span>
+		       	   	  				<input type="text" class="inputbox" />
+	       	   	  				    <em>县</em>
+	       	   	  				</span>
+	       	   	  			</div>
+	       	   	  		</div>
+	       	   	  		<p class="controlbar"><input type="submit" class="btn_config" value="" /></p>
+	       	   	  	</form>
+	       	   	  </div>
+	       	   	  <div class="service_intro">
+	       	   	  	 <ul class="txtlist cols">
+	       	   	  	 	<li>
+	       	   	  	 		<h6>更低的费用</h6>
+	       	   	  	 		<p>通过事故问获得专业服务，费用100%优惠；还有额外费用返还</p>
+	       	   	  	 	</li>
+	       	   	  	 	<li>
+	       	   	  	 		<h6>更好的保障</h6>
+	       	   	  	 		<p>专家律师与事故处理专家联合提供全方位服务，权益更有保障</p>
+	       	   	  	 	</li>
+	       	   	  	 </ul>
+	       	   	  	 <p class="linkmore"><a href="#" title="了解详情" class="btn_link">了解详情</a></p>
+	       	   	  </div>
+	       	   </div>
+	       	   <!-- right begin-->
+	       	   <div class="recommbox">
+	       	   	    <div class="slideshow" mod-type="SlideShow" mod-config="speed:300;">
+	       	   	    	<div class="imgbox" mod-comp="SlideShow-Viewport">
+	       	   	    		<ul class="cols" mod-comp="SlideShow-Content">
+	       	   	    			<li mod-comp="SlideShow-Item"><a href="#"><img src="../images/slideshow_01.jpg" alt="" width="460" height="270" /></a></li>
+	       	   	    			<li mod-comp="SlideShow-Item"><a href="#"><img src="../images/slideshow_02.jpg" alt="" width="460" height="270" /></a></li>
+	       	   	    			<li mod-comp="SlideShow-Item"><a href="#"><img src="../images/slideshow_03.jpg" alt="" width="460" height="270" /></a></li>
+	       	   	    		</ul>
+	       	   	    	</div>
+	       	   	    	<div class="triggle_bar" mod-comp="SlideShow-Triggle">
+	       	   	    		<a href="#" class="on" mod-comp="SlideShow-Triggle-Item">1</a>
+	       	   	    		<a href="#" mod-comp="SlideShow-Triggle-Item">2</a>
+	       	   	    		<a href="#" mod-comp="SlideShow-Triggle-Item">3</a>
+	       	   	    	</div>
+	       	   	    </div>
+	       	   	    <div class="tips">
+	       	   	    	<p>已通过事故问聘请专业律师？<a href="#" title="点击这里">点击这里</a>进行登记，</p>
+	       	   	    	<p>享受事故问提供的所有保障!</p>
+	       	   	    </div>
+	       	   </div>
+	       </div>
+	        <!-- part02 begin-->
+	        <div class="part02 cols">
+	        	<div class="chooseReason">
+	        		<h6>选择事故问的原因</h6>
+	        		<ul class="txtlist">
+	        			<li>聚集了事故处理专家与法律服务人才，提供全方位的事故处理咨询</li>
+	        			<li>国内多家合作鉴定机构，其合作机构可对各类专业性问题进行鉴定</li>
+	        			<li>"跨专业+跨机构"专家资源提供支持，复杂事故的诉讼理赔更有力度</li>
+	        			<li>您当地的事故问合作律师可为您提供更好的服务</li>
+	        			<li>通过事故问获得法律服务与技术服务，您将支付更低的费用</li>
+	        		</ul>
+	        	</div>
+	        	<div class="companyIntro">
+	        		<p class="intro"><img src="../images/logo.jpg" alt="" width="79" />是一个提供事故处理全方位咨询服务的网站，包括法律问题咨询、交通事故类专业问题咨询，以及其他专业问题咨询。 网站整合了事故处理相关行业的法律人才与技术人才，可以对事故中的各种专业性问题提供“一站式”解答。 无论您身处哪里，遇到什么问题，都可通过我们，以更低的费用，获得更好的帮助。</p>
+	        		<p class="linkmore"><a href="#">点击进入&gt;&gt;</a></p>
+	        	</div>
+	        </div>
+	        <!-- part03 begin-->
+	        <div class="part03 cols">
+	        	<div class="traffic_consult">
+	        		<h6 class="mb_hd">交通事故专业问题咨询</h6>
+	        		<div class="bd">
+	        			<p class="imgbox"><img src="../images/traffic_consult.jpg" alt="" width="90" height="90" /></p>
+	        			<ul class="txtlist">
+		        			<li><a href="#">事故车速</a></li>
+		        			<li><a href="#">事故因果关系</a></li>
+		        			<li><a href="#">谁是驾驶员</a></li>
+		        			<li><a href="#">专业报告评估</a></li>
+		        			<li><a href="#">车辆故障与质量问题调查</a></li>
+		        			<li><a href="#">事故原因深度研究</a></li>
+	        		    </ul>
+	        		</div>
+	        		<p class="linkmore"><a href="#" title="">点击进入&gt;&gt;</a></p>
+	        	</div>
+	        	<div class="bruise_consult">
+	        		<h6 class="mb_hd">人体损伤问题咨询</h6>
+	        		<div class="bd">
+	        			<p class="imgbox"><img src="../images/bruise_consult.jpg" alt="" width="90" height="90" /></p>
+	        			<ul class="txtlist">
+		        			<li><a href="#">伤残等级分析</a></li>
+		        			<li><a href="#">医疗纠纷分析</a></li>
+		        			<li><a href="#">死亡或受伤原因分析</a></li>
+		        			<li><a href="#">致伤（死）物认定</a></li>
+		        			<li><a href="#">生前伤与死后伤分析，等</a></li>
+	        		    </ul>
+	        		</div>
+	        		<p class="linkmore"><a href="#" title="">点击进入&gt;&gt;</a></p>
+	        	</div>
+	        	<div class="lawyer_area">
+	        		<h6 class="mb_hd">专业律师委托</h6>
+	        		<div class="bd">
+	        			<p class="imgbox"><img src="../images/lawyer_area.jpg" alt="" width="90" height="90" /></p>
+	        			<ul class="txtlist">
+		        			<li><a href="#">费用更低</a></li>
+		        			<li><a href="#">服务质量全程监督</a></li>
+		        			<li><a href="#">事故处理专家提供免费咨</a></li>
+	        		    </ul>
+	        		</div>
+	        		<p class="linkmore"><a href="#" title="">点击进入&gt;&gt;</a></p>
+	        	</div>
+	        	<div class="news">
+	        		<h6 class="mb_hd">新闻在线</h6>
+	        		<ul class="txtlist">
+	        			<li><a href="#">2013-04-20 黑龙江大庆张文东律师成为网站的合作伙伴</a></li>
+	        			<li><a href="#">2013-04-20 黑龙江大庆张文东律师成为网站的合作伙伴</a></li>
+	        			<li><a href="#">2013-04-20 周瑞资律师成为网站区域合作伙伴</a></li>
+	        		</ul>
+	        		<p class="linkmore"><a href="#" title="">更多新闻&gt;&gt;</a></p>
+	        	</div>
+	        </div>
+	        <!-- part04 begin-->
+	        <div class="part04 cols">
+	        	<div class="reception_center">
+	        		<h6 class="mb_hd">联系您身边的接待处</h6>
+	        		<div class="bd">
+	        			<p class="imgbox"><img src="../images/reception_center.jpg" alt="" width="238" height="155" /></p>
+	        			<p class="citylist">
+	        				<a href="#" title="">上海</a>
+	        				<a href="#" title="">广东</a>
+	        				<a href="#" title="">山东</a>
+	        				<a href="#" title="">浙江</a>
+	        				<a href="#" title="">河北</a>
+	        				<a href="#" title="">湖北</a>
+	        				<a href="#" title="">广西</a>
+	        				<a href="#" title="">湖南</a>
+	        				<a href="#" title="">福建</a>
+	        				<a href="#" title="">安徽</a>
+	        				<a href="#" title="">江苏</a>
+	        				<a href="#" title="">河南</a>
+	        				<a href="#" title="">辽宁</a>
+	        				<a href="#" title="">四川</a>
+	        				<a href="#" title="">陕西</a>
+	        				<a href="#" title="">江西</a>
+	        				<a href="#" title="">重庆</a>
+	        				<a href="#" title="">黑龙江</a>
+	        				<a href="#" title="">云南</a>
+	        				<a href="#" title="">吉林</a>
+	        				<a href="#" title="">海南</a>
+	        				<a href="#" title="">甘肃</a>
+	        				<a href="#" title="">贵州</a>
+	        				<a href="#" title="">新疆</a>
+	        			</p>
+	        		</div>
+	        	</div>
+	        	<div class="key_knowledge">
+	        		<h6 class="mb_hd">为更好获得帮助，以下知识对您很重要</h6>
+	        		<ul class="txtlist">
+	        			<li><a href="#">专家咨询报告在事故处理中的价值 交通事故</a><b class="icon_hot"></b></li>
+	        			<li><a href="#">交通事故为什么需要聘请专业人员处理</a></li>
+	        			<li><a href="#">专业技术在交通事故处理中的作用</a></li>
+	        			<li><a href="#">交通事故责任认定为何要分析车速</a></li>
+	        			<li><a href="#">专家证人与专家辅助证人</a></li>
+	        		</ul>
+	        		<p class="linkmore"><a href="#" title="">更多知识&gt;&gt;</a></p>
+	        	</div>
+	        </div>
+	        <!-- part05 begin-->
+	        <div class="part05 cols">
+	        	<div class="cooperate">
+	        		<h6 class="mb_hd">合作伙伴风采</h6>
+	        		<p class="imgbox"><a href="#" title=""><img src="../images/cooperate.jpg" alt="" width="458" height="65" /></a></p>
+	        	</div>
+	        	<div class="flash_show">
+	        		<embed src="../images/banner.swf" height="126" width="458" allowscriptaccess="always" wmode="Opaque" allowfullscreen="true"></embed>
+	        		<p class="linkmore"><a href="http://www.shiguwen.com/index.action" target="_blank">详细了解</a></p>
+	        	</div>
+	        </div>
+	        
+       </div>
+       <!-- footer begin-->
+       <div class="footer">
+       	  <div class="footer_wrap">
+       	  	 <ul class="parterlist cols"><li>
+       	  	 	    <p class="imgbox"><a href="#" title=""><img src="../images/partner_01.png" alt="" width="179" height="41" /></a></p>	
+       	  	 	    <p class="intro">国际事故再现<br/>委员会会员</p>
+       	  	 	</li><li class="sina">
+       	  	 	    <p class="imgbox"><a href="#" title=""><img src="../images/partner_02.png" alt="" width="134" height="42" /></a></p>	
+       	  	 	    <p class="intro">富维事故研究</p>
+       	  	 	</li><li>
+       	  	 	    <p class="imgbox"><a href="#" title=""><img src="../images/partner_03.jpg" alt="" width="249" height="45" /></a></p>	
+       	  	 	</li>
+       	  	 </ul>
+       	  	 <p class="copyright">Copyright©www.shiguwen.com,All Rights Reserved 版权所有©富维事故研究 沪ICP备11029153号-2 本网站法律顾问：上海上华律师事务所</p>
+       	  </div>
+       </div>
+	</body>
+</html>

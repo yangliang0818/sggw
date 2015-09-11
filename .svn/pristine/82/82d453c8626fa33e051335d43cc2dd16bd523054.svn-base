@@ -1,0 +1,131 @@
+/*******
+ description:详细页;
+ author:chenlin;
+ date:2013-08-16;
+ *********/
+@import "public.css";
+
+.lay_s255_m {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.lay_s255_m .lay_sub {
+    float: left;
+    width: 255px;
+}
+
+.lay_s255_m .lay_main {
+    float: right;
+    width: 710px;
+    font-family: "微软雅黑";
+}
+
+/**********************************lay_sub*********************************/
+.online_service, .service_pj {
+    border: 1px solid #000000;
+    margin: 10px 0;
+}
+
+.online_service {
+    margin-top: 20px;
+}
+
+.sb_hd {
+    padding: 0 14px;
+    position: relative;
+    zoom: 1;
+}
+
+.sb_hd h6 {
+    font: bold 14px/34px "宋体";
+    border-bottom: 2px solid #5d5d5d;
+}
+
+.sb_hd em {
+    display: inline-block;
+    width: 75px;
+    height: 2px;
+    overflow: hidden;
+    background: #c4a730;
+    position: absolute;
+    bottom: 0;
+    left: 14px;
+}
+
+.online_service .imgbox {
+    margin: 15px 0 15px 33px;
+}
+
+.online_service .imgbox img {
+    border: 6px solid #ababab;
+}
+
+.service_pj .txtlist {
+    padding: 15px 0 20px 0;
+}
+
+.service_pj li {
+    margin: 2px 14px;
+    padding: 6px 0 5px 14px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: "微软雅黑";
+}
+
+.service_pj li a {
+    display: block;
+    height: 100%;
+    background: url(img/icon.png) 0 -105px no-repeat;
+    padding-left: 7px;
+    color: #000000;
+}
+
+.service_pj li.on {
+    background: #e5e5e5;
+}
+
+.breadcrumb {
+    border-bottom: 1px solid #444444;
+    line-height: 36px;
+    margin-top: 20px;
+    font-family: '微软雅黑'
+}
+
+.breadcrumb a {
+    padding: 0 8px;
+    color: #000000;
+}
+
+.aticle {
+    padding-bottom: 50px;
+}
+
+.aticle h5 {
+    font: bold 20px/1 "微软雅黑";
+    text-align: center;
+    padding: 25px 0 15px 0;
+}
+
+.aticle p {
+    font: 14px/30px "微软雅黑";
+    margin: 2px 0;
+}
+.citylist{
+    margin-bottom: 40px;
+}
+.citylist a {
+    float: left;
+    word-break: keep-all;
+    padding: 0 10px;
+    line-height: 28px;
+    height: 28px;
+    background: url(img/icon.png) 0 -170px no-repeat;
+    color: #666666;
+    margin-left: -1px;
+}
+.inputclass
+{
+    border:solid 1px #000000; background-color:#FFFFFF; height:16px;
+}

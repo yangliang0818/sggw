@@ -1,0 +1,2364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/WebRoot/WEB-INF/testindex2.jsp" line="361" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="03194ded-77b3-4b94-9c21-99144e777a99" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/gs.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/test.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web/gs.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web/wm.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web/xcbd/x-6.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/x-6.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sggw/util/UrlTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/admin/qryneedhelp.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/admin/qryneedhelp.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/dc.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/dc.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/fxcs.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/fxcs.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/needhelp.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/needhelp.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/web/index.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/web/needhelp.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web/needhelp.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/web/xcbd/xc.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web/xcbd/xc.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/wm.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/wm.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/xc.jsp" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/xc.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/index.jsp" afterPath="$PROJECT_DIR$/WebRoot/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/sggw/constant/Dates.java" afterPath="$PROJECT_DIR$/src/com/sggw/constant/Dates.java" />
+    </list>
+    <list id="b4fa49d9-28c5-4552-ae34-a40e0aea26b7" name="Failed commit: Default" comment="百度云代码第一个版本" />
+    <ignored path="sggw.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/sggw/util/DB2DB.java" line="116" class="com.sggw.util.DB2DB" package="com.sggw.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/sggw/util/DB2DB.java" line="24" class="com.sggw.util.DB2DB" package="com.sggw.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/sggw/web/SggwAction.java" line="53" class="com.sggw.web.SggwAction" package="com.sggw.web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/sggw/dao/AdminDao.java" line="1359" class="com.sggw.dao.AdminDao" package="com.sggw.dao">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_any>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties>
+      <property name="line_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_viewId" value="TABLE" />
+      <property name="exception_breakpoints_flattenPackages" value="true" />
+      <property name="method_breakpoints_flattenPackages" value="true" />
+      <property name="field_breakpoints_flattenPackages" value="true" />
+      <property name="exception_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_groupByClasses" value="true" />
+      <property name="method_breakpoints_viewId" value="TABLE" />
+      <property name="field_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_flattenPackages" value="true" />
+      <property name="field_breakpoints_groupByClasses" value="true" />
+      <property name="method_breakpoints_groupByClasses" value="true" />
+      <property name="exception_breakpoints_viewId" value="TABLE" />
+      <property name="exception_breakpoints_groupByClasses" value="true" />
+      <property name="field_breakpoints_viewId" value="TABLE" />
+      <property name="method_breakpoints_groupByMethods" value="false" />
+    </ui_properties>
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sggw" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="icon.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/css/img/icon.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wzjj.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/wzjj.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="13" selection-start="1234" selection-end="1234" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wm.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/wm.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="18" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gs.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/gs.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="41" selection-start="1203" selection-end="1224" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hxzfx.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/hxzfx.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hy.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/hy.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="44" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gm.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/gm.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="58" selection-start="0" selection-end="6894" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UrlTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/util/UrlTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="25" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wzjj.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/wzjj.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="3839" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wm.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/wm.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="263" selection-start="1791" selection-end="1791" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wq.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/wq.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xc.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/xc.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="x-6.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/x-6.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="70" selection-start="922" selection-end="922" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="10" selection-start="301" selection-end="301" vertical-scroll-proportion="0.33497536">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="x-3.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/x-3.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="115" selection-start="1593" selection-end="1690" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="x-5.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/x-5.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="35" selection-start="0" selection-end="2056" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jszy.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/jszy.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="84" column="53" selection-start="4466" selection-end="4485" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lx.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/lx.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="64" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lx.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/lx.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="39" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="address.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/address.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="112" column="36" selection-start="4149" selection-end="4149" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexframe.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/indexframe.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="66" selection-start="4318" selection-end="4318" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="s-11.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/scjd/s-11.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="44" selection-start="1704" selection-end="1704" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/footer.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="58" selection-start="1359" selection-end="1359" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseDao.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/dao/BaseDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="0" selection-start="2171" selection-end="2171" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="59" selection-start="387" selection-end="387" vertical-scroll-proportion="-5.6666665">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DB2DB.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/util/DB2DB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="51" selection-start="5433" selection-end="5433" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadLocal.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/thread/ThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="33" selection-start="400" selection-end="412" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadLocal.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Java/jdk1.5.0_11/src.zip!/java/lang/ThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="34" selection-start="1556" selection-end="1556" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dates.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/constant/Dates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="23" selection-start="2463" selection-end="2463" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SggwAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/web/SggwAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="84" column="31" selection-start="3073" selection-end="3073" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/struts.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="65" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SggwService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/service/SggwService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="34" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SggwModel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/model/SggwModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="191" column="12" selection-start="3979" selection-end="3979" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fxcs.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/fxcs.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="42" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fxpg.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/fxpg.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="222" column="9" selection-start="7520" selection-end="7520" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fy.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/fy.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fyjd.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/fyjd.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fz.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/fz.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="6" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zyry.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/zyry.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Area.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/xml/Area.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="21" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/service/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminDao.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/dao/AdminDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1392" column="0" selection-start="49328" selection-end="49328" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUploadAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sggw/web/FileUploadAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="50" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Closeable.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Java/jdk1.5.0_11/src.zip!/java/io/Closeable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="44" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zyjs.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/zyjs.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="75" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ylgc.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/alzs/ylgc.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="42" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ylgc.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/alzs/ylgc.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="154" column="23" selection-start="1421" selection-end="9653" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jcgx.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/alzs/jcgx.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="85" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csfx.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/alzs/csfx.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="42" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsfx.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/alzs/jsfx.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="60" selection-start="2435" selection-end="2483" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebRoot/WEB-INF/scjd/s-13.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/jszy.jsp" />
+        <option value="$PROJECT_DIR$/src/com/sggw/util/UrlTest.java" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/gs.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web/gs.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web/needhelp.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/needhelp.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/admin/qryneedhelp.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/xc.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/xcbd/x-6.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web/xcbd/x-6.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web/xcbd/xc.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/index.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web/index.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/wm.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web/wm.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/fxcs.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="false" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sggw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sggw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sggw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sggw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sggw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sggw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sggw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="277" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="81" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="73" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="86" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="85" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="86" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="79" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="879" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="80" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="79" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="81" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="677" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.lastSelected" value="project.propSubversion" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mysvn\sggw\WebRoot\WEB-INF\web" />
+      <recent name="C:\mysvn\sggw\WebRoot\WEB-INF" />
+      <recent name="C:\mysvn\sggw\WebRoot" />
+      <recent name="C:\mywork\sggw\WebRoot\WEB-INF\web" />
+      <recent name="C:\mywork\sggw\WebRoot\WEB-INF\web\alzs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mysvn\sggw\WebRoot\WEB-INF" />
+      <recent name="C:\mywork\sggw\WebRoot\WEB-INF\web\xcbd" />
+      <recent name="C:\mywork\sggw\WebRoot\WEB-INF\web\alzs" />
+      <recent name="C:\mywork\sggw\WebRoot\WEB-INF" />
+      <recent name="C:\mywork\sggw\WebRoot\WEB-INF\alzs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DB2DB">
+    <configuration default="false" name="BaseDao" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sggw.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sggw.dao.BaseDao" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sggw" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Dates" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sggw.constant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sggw.constant.Dates" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sggw" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="XSSTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sggw.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sggw.test.XSSTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sggw" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DB2DB" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sggw.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sggw.util.DB2DB" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sggw" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UrlTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sggw.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sggw.util.UrlTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sggw" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 5" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BaseDao" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Dates" />
+      <item index="3" class="java.lang.String" itemvalue="Application.XSSTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DB2DB" />
+      <item index="5" class="java.lang.String" itemvalue="Application.UrlTest" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\yangliang.yangliang-PC\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\mysvn\sggw" />
+          <option name="myCopyRoot" value="C:\mysvn\sggw" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\mysvn\sggw\.idea" />
+          <option name="myCopyRoot" value="C:\mysvn\sggw\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\mysvn\sggw" />
+          <option name="myCopyRoot" value="C:\mysvn\sggw" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03194ded-77b3-4b94-9c21-99144e777a99" name="Default" comment="" />
+      <changelist id="b4fa49d9-28c5-4552-ae34-a40e0aea26b7" name="Failed commit: Default" comment="百度云代码第一个版本" />
+      <created>1382949306933</created>
+      <updated>1382949306933</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1382949572116</created>
+      <updated>1382949572116</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1382949686107</created>
+      <updated>1382949686107</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1383052620144</created>
+      <updated>1383052620144</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1383052631104</created>
+      <updated>1383052631104</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1383053560111</created>
+      <updated>1383053560111</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1383055517116</created>
+      <updated>1383055517116</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1383141112179</created>
+      <updated>1383141112179</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1383141131116</created>
+      <updated>1383141131116</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1383141137126</created>
+      <updated>1383141137126</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1383141150122</created>
+      <updated>1383141150122</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1383142292107</created>
+      <updated>1383142292107</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1383222499134</created>
+      <updated>1383222499134</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1383484324183</created>
+      <updated>1383484324183</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1383484562118</created>
+      <updated>1383484562118</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1383484584108</created>
+      <updated>1383484584108</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1383484593115</created>
+      <updated>1383484593115</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1383485988109</created>
+      <updated>1383485988109</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1383490604111</created>
+      <updated>1383490604111</updated>
+    </task>
+    <task id="LOCAL-00019">
+      <created>1383579174185</created>
+      <updated>1383579174185</updated>
+    </task>
+    <task id="LOCAL-00020">
+      <created>1383579189106</created>
+      <updated>1383579189106</updated>
+    </task>
+    <task id="LOCAL-00021">
+      <created>1383579196113</created>
+      <updated>1383579196113</updated>
+    </task>
+    <task id="LOCAL-00022">
+      <created>1383579229107</created>
+      <updated>1383579229107</updated>
+    </task>
+    <task id="LOCAL-00023">
+      <created>1383579254129</created>
+      <updated>1383579254129</updated>
+    </task>
+    <task id="LOCAL-00024">
+      <created>1383663006144</created>
+      <updated>1383663006144</updated>
+    </task>
+    <task id="LOCAL-00025">
+      <created>1383664824108</created>
+      <updated>1383664824108</updated>
+    </task>
+    <task id="LOCAL-00026">
+      <created>1383664931109</created>
+      <updated>1383664931109</updated>
+    </task>
+    <task id="LOCAL-00027">
+      <created>1383664972106</created>
+      <updated>1383664972106</updated>
+    </task>
+    <task id="LOCAL-00028">
+      <created>1383743640141</created>
+      <updated>1383743640141</updated>
+    </task>
+    <task id="LOCAL-00029">
+      <created>1383745736138</created>
+      <updated>1383745736138</updated>
+    </task>
+    <task id="LOCAL-00030">
+      <created>1383745745118</created>
+      <updated>1383745745118</updated>
+    </task>
+    <task id="LOCAL-00031">
+      <created>1383745755115</created>
+      <updated>1383745755115</updated>
+    </task>
+    <task id="LOCAL-00032">
+      <created>1383745764112</created>
+      <updated>1383745764112</updated>
+    </task>
+    <task id="LOCAL-00033">
+      <created>1383745790110</created>
+      <updated>1383745790110</updated>
+    </task>
+    <task id="LOCAL-00034">
+      <created>1383746078106</created>
+      <updated>1383746078106</updated>
+    </task>
+    <task id="LOCAL-00035">
+      <created>1384354994128</created>
+      <updated>1384354994128</updated>
+    </task>
+    <task id="LOCAL-00036">
+      <created>1384358283123</created>
+      <updated>1384358283123</updated>
+    </task>
+    <task id="LOCAL-00037">
+      <created>1385996345160</created>
+      <updated>1385996345160</updated>
+    </task>
+    <task id="LOCAL-00038">
+      <created>1385996401113</created>
+      <updated>1385996401113</updated>
+    </task>
+    <task id="LOCAL-00039">
+      <created>1385996410105</created>
+      <updated>1385996410105</updated>
+    </task>
+    <task id="LOCAL-00040">
+      <created>1386161880170</created>
+      <updated>1386161880170</updated>
+    </task>
+    <task id="LOCAL-00041">
+      <created>1386424752349</created>
+      <updated>1386424752349</updated>
+    </task>
+    <task id="LOCAL-00042">
+      <created>1386424789106</created>
+      <updated>1386424789106</updated>
+    </task>
+    <task id="LOCAL-00043">
+      <created>1386424803120</created>
+      <updated>1386424803120</updated>
+    </task>
+    <task id="LOCAL-00044">
+      <created>1386424816112</created>
+      <updated>1386424816112</updated>
+    </task>
+    <task id="LOCAL-00045">
+      <created>1386424837116</created>
+      <updated>1386424837116</updated>
+    </task>
+    <task id="LOCAL-00046">
+      <created>1386424851109</created>
+      <updated>1386424851109</updated>
+    </task>
+    <task id="LOCAL-00047">
+      <created>1386424860128</created>
+      <updated>1386424860128</updated>
+    </task>
+    <task id="LOCAL-00048">
+      <created>1387547110164</created>
+      <updated>1387547110164</updated>
+    </task>
+    <task id="LOCAL-00049">
+      <created>1387547152106</created>
+      <updated>1387547152106</updated>
+    </task>
+    <task id="LOCAL-00050">
+      <created>1387547651107</created>
+      <updated>1387547651107</updated>
+    </task>
+    <task id="LOCAL-00051">
+      <created>1387547692105</created>
+      <updated>1387547692105</updated>
+    </task>
+    <task id="LOCAL-00052">
+      <created>1387547716113</created>
+      <updated>1387547716113</updated>
+    </task>
+    <task id="LOCAL-00053">
+      <created>1388319870640</created>
+      <updated>1388319870640</updated>
+    </task>
+    <task id="LOCAL-00054">
+      <created>1388575634149</created>
+      <updated>1388575634149</updated>
+    </task>
+    <task id="LOCAL-00055">
+      <created>1388575660103</created>
+      <updated>1388575660103</updated>
+    </task>
+    <task id="LOCAL-00056">
+      <created>1388576054105</created>
+      <updated>1388576054110</updated>
+    </task>
+    <task id="LOCAL-00057">
+      <created>1388754400175</created>
+      <updated>1388754400175</updated>
+    </task>
+    <task id="LOCAL-00058">
+      <created>1388930070136</created>
+      <updated>1388930070136</updated>
+    </task>
+    <task id="LOCAL-00059">
+      <created>1389279611447</created>
+      <updated>1389279611447</updated>
+    </task>
+    <task id="LOCAL-00060">
+      <created>1389279622106</created>
+      <updated>1389279622106</updated>
+    </task>
+    <task id="LOCAL-00061">
+      <created>1389618245188</created>
+      <updated>1389618245189</updated>
+    </task>
+    <task id="LOCAL-00062">
+      <created>1389625540114</created>
+      <updated>1389625540114</updated>
+    </task>
+    <task id="LOCAL-00063">
+      <created>1389625615112</created>
+      <updated>1389625615112</updated>
+    </task>
+    <task id="LOCAL-00064">
+      <created>1389625905117</created>
+      <updated>1389625905117</updated>
+    </task>
+    <task id="LOCAL-00065">
+      <created>1389625918115</created>
+      <updated>1389625918115</updated>
+    </task>
+    <task id="LOCAL-00066">
+      <created>1389625932116</created>
+      <updated>1389625932117</updated>
+    </task>
+    <task id="LOCAL-00067">
+      <created>1389625954107</created>
+      <updated>1389625954107</updated>
+    </task>
+    <task id="LOCAL-00068">
+      <created>1392987904173</created>
+      <updated>1392987904173</updated>
+    </task>
+    <task id="LOCAL-00069">
+      <created>1393668629159</created>
+      <updated>1393668629159</updated>
+    </task>
+    <task id="LOCAL-00070">
+      <created>1393668637110</created>
+      <updated>1393668637110</updated>
+    </task>
+    <task id="LOCAL-00071">
+      <created>1396275111202</created>
+      <updated>1396275111202</updated>
+    </task>
+    <task id="LOCAL-00072">
+      <created>1396538268166</created>
+      <updated>1396538268166</updated>
+    </task>
+    <task id="LOCAL-00073">
+      <created>1396538278107</created>
+      <updated>1396538278107</updated>
+    </task>
+    <task id="LOCAL-00074">
+      <created>1396538325125</created>
+      <updated>1396538325125</updated>
+    </task>
+    <task id="LOCAL-00075">
+      <created>1396538398119</created>
+      <updated>1396538398119</updated>
+    </task>
+    <task id="LOCAL-00076">
+      <created>1396538438105</created>
+      <updated>1396538438105</updated>
+    </task>
+    <task id="LOCAL-00077">
+      <created>1396538452121</created>
+      <updated>1396538452121</updated>
+    </task>
+    <task id="LOCAL-00078">
+      <created>1396538492106</created>
+      <updated>1396538492106</updated>
+    </task>
+    <task id="LOCAL-00079">
+      <created>1397272451171</created>
+      <updated>1397272451171</updated>
+    </task>
+    <task id="LOCAL-00080">
+      <created>1397272461114</created>
+      <updated>1397272461114</updated>
+    </task>
+    <task id="LOCAL-00081">
+      <created>1398435551199</created>
+      <updated>1398435551199</updated>
+    </task>
+    <task id="LOCAL-00082">
+      <created>1398435564105</created>
+      <updated>1398435564105</updated>
+    </task>
+    <task id="LOCAL-00083">
+      <created>1398435579107</created>
+      <updated>1398435579108</updated>
+    </task>
+    <task id="LOCAL-00084">
+      <created>1398435586110</created>
+      <updated>1398435586110</updated>
+    </task>
+    <task id="LOCAL-00085">
+      <created>1398438166110</created>
+      <updated>1398438166110</updated>
+    </task>
+    <task id="LOCAL-00086">
+      <created>1398438182114</created>
+      <updated>1398438182114</updated>
+    </task>
+    <task id="LOCAL-00087">
+      <created>1398438202113</created>
+      <updated>1398438202113</updated>
+    </task>
+    <task id="LOCAL-00088">
+      <created>1398438211131</created>
+      <updated>1398438211131</updated>
+    </task>
+    <task id="LOCAL-00089">
+      <created>1398438227116</created>
+      <updated>1398438227116</updated>
+    </task>
+    <task id="LOCAL-00090">
+      <created>1399648796181</created>
+      <updated>1399648796181</updated>
+    </task>
+    <task id="LOCAL-00091">
+      <created>1399814904612</created>
+      <updated>1399814904613</updated>
+    </task>
+    <task id="LOCAL-00092">
+      <created>1399815241107</created>
+      <updated>1399815241107</updated>
+    </task>
+    <task id="LOCAL-00093">
+      <created>1400416681141</created>
+      <updated>1400416681141</updated>
+    </task>
+    <task id="LOCAL-00094">
+      <created>1400416697125</created>
+      <updated>1400416697125</updated>
+    </task>
+    <task id="LOCAL-00095">
+      <created>1401803472185</created>
+      <updated>1401803472185</updated>
+    </task>
+    <task id="LOCAL-00096">
+      <created>1402232770165</created>
+      <updated>1402232770165</updated>
+    </task>
+    <task id="LOCAL-00097">
+      <created>1402232787106</created>
+      <updated>1402232787106</updated>
+    </task>
+    <task id="LOCAL-00098">
+      <created>1402232807108</created>
+      <updated>1402232807108</updated>
+    </task>
+    <task id="LOCAL-00099">
+      <created>1402232822107</created>
+      <updated>1402232822107</updated>
+    </task>
+    <task id="LOCAL-00100">
+      <created>1402232830105</created>
+      <updated>1402232830105</updated>
+    </task>
+    <task id="LOCAL-00101">
+      <created>1402232842110</created>
+      <updated>1402232842110</updated>
+    </task>
+    <task id="LOCAL-00102">
+      <created>1402232856104</created>
+      <updated>1402232856104</updated>
+    </task>
+    <task id="LOCAL-00103">
+      <created>1402232866111</created>
+      <updated>1402232866111</updated>
+    </task>
+    <task id="LOCAL-00104">
+      <created>1402232877103</created>
+      <updated>1402232877103</updated>
+    </task>
+    <task id="LOCAL-00105">
+      <created>1402232885105</created>
+      <updated>1402232885105</updated>
+    </task>
+    <task id="LOCAL-00106">
+      <created>1402232892113</created>
+      <updated>1402232892113</updated>
+    </task>
+    <task id="LOCAL-00107">
+      <created>1402232904176</created>
+      <updated>1402232904176</updated>
+    </task>
+    <task id="LOCAL-00108">
+      <created>1402232911108</created>
+      <updated>1402232911108</updated>
+    </task>
+    <task id="LOCAL-00109">
+      <created>1402232918123</created>
+      <updated>1402232918123</updated>
+    </task>
+    <task id="LOCAL-00110">
+      <created>1402232928114</created>
+      <updated>1402232928114</updated>
+    </task>
+    <task id="LOCAL-00111">
+      <created>1402232984152</created>
+      <updated>1402232984152</updated>
+    </task>
+    <task id="LOCAL-00112">
+      <created>1402675399175</created>
+      <updated>1402675399176</updated>
+    </task>
+    <task id="LOCAL-00113">
+      <created>1402755419181</created>
+      <updated>1402755419181</updated>
+    </task>
+    <task id="LOCAL-00114">
+      <created>1402819744205</created>
+      <updated>1402819744205</updated>
+    </task>
+    <task id="LOCAL-00115">
+      <created>1402831261120</created>
+      <updated>1402831261120</updated>
+    </task>
+    <task id="LOCAL-00116">
+      <created>1402834854107</created>
+      <updated>1402834854107</updated>
+    </task>
+    <task id="LOCAL-00117">
+      <created>1402834866107</created>
+      <updated>1402834866107</updated>
+    </task>
+    <task id="LOCAL-00118">
+      <created>1402834873107</created>
+      <updated>1402834873107</updated>
+    </task>
+    <task id="LOCAL-00119">
+      <created>1402834886109</created>
+      <updated>1402834886109</updated>
+    </task>
+    <task id="LOCAL-00120">
+      <created>1402834893106</created>
+      <updated>1402834893106</updated>
+    </task>
+    <task id="LOCAL-00121">
+      <created>1402834900106</created>
+      <updated>1402834900106</updated>
+    </task>
+    <task id="LOCAL-00122">
+      <created>1402834907120</created>
+      <updated>1402834907120</updated>
+    </task>
+    <task id="LOCAL-00123">
+      <created>1404012847162</created>
+      <updated>1404012847162</updated>
+    </task>
+    <task id="LOCAL-00124">
+      <created>1404049220123</created>
+      <updated>1404049220123</updated>
+    </task>
+    <task id="LOCAL-00125">
+      <created>1404049239132</created>
+      <updated>1404049239132</updated>
+    </task>
+    <task id="LOCAL-00126">
+      <created>1404049263110</created>
+      <updated>1404049263110</updated>
+    </task>
+    <task id="LOCAL-00127">
+      <created>1404049274116</created>
+      <updated>1404049274116</updated>
+    </task>
+    <task id="LOCAL-00128">
+      <created>1404049281114</created>
+      <updated>1404049281114</updated>
+    </task>
+    <task id="LOCAL-00129">
+      <created>1404049311108</created>
+      <updated>1404049311108</updated>
+    </task>
+    <task id="LOCAL-00130">
+      <created>1404049338108</created>
+      <updated>1404049338108</updated>
+    </task>
+    <task id="LOCAL-00131">
+      <created>1404049359104</created>
+      <updated>1404049359104</updated>
+    </task>
+    <task id="LOCAL-00132">
+      <created>1404049381107</created>
+      <updated>1404049381107</updated>
+    </task>
+    <task id="LOCAL-00133">
+      <created>1404049394105</created>
+      <updated>1404049394105</updated>
+    </task>
+    <task id="LOCAL-00134">
+      <created>1404049412111</created>
+      <updated>1404049412111</updated>
+    </task>
+    <task id="LOCAL-00135">
+      <created>1404049421105</created>
+      <updated>1404049421105</updated>
+    </task>
+    <task id="LOCAL-00136">
+      <created>1404049426106</created>
+      <updated>1404049426106</updated>
+    </task>
+    <task id="LOCAL-00137">
+      <created>1404049439107</created>
+      <updated>1404049439107</updated>
+    </task>
+    <task id="LOCAL-00138">
+      <created>1404049452124</created>
+      <updated>1404049452125</updated>
+    </task>
+    <task id="LOCAL-00139">
+      <created>1404049467115</created>
+      <updated>1404049467115</updated>
+    </task>
+    <task id="LOCAL-00140">
+      <created>1404049474107</created>
+      <updated>1404049474107</updated>
+    </task>
+    <task id="LOCAL-00141">
+      <created>1404049482107</created>
+      <updated>1404049482107</updated>
+    </task>
+    <task id="LOCAL-00142">
+      <created>1404049489107</created>
+      <updated>1404049489107</updated>
+    </task>
+    <task id="LOCAL-00143">
+      <created>1404049509113</created>
+      <updated>1404049509113</updated>
+    </task>
+    <task id="LOCAL-00144">
+      <created>1404049538112</created>
+      <updated>1404049538112</updated>
+    </task>
+    <task id="LOCAL-00145">
+      <created>1404049567106</created>
+      <updated>1404049567106</updated>
+    </task>
+    <task id="LOCAL-00146">
+      <created>1404049582105</created>
+      <updated>1404049582105</updated>
+    </task>
+    <task id="LOCAL-00147">
+      <created>1404050705109</created>
+      <updated>1404050705109</updated>
+    </task>
+    <task id="LOCAL-00148">
+      <created>1404567228183</created>
+      <updated>1404567228183</updated>
+    </task>
+    <task id="LOCAL-00149">
+      <created>1404567239122</created>
+      <updated>1404567239122</updated>
+    </task>
+    <task id="LOCAL-00150">
+      <created>1404568262136</created>
+      <updated>1404568262136</updated>
+    </task>
+    <task id="LOCAL-00151">
+      <created>1404619476201</created>
+      <updated>1404619476201</updated>
+    </task>
+    <task id="LOCAL-00152">
+      <created>1404619483107</created>
+      <updated>1404619483107</updated>
+    </task>
+    <task id="LOCAL-00153">
+      <created>1404913970126</created>
+      <updated>1404913970126</updated>
+    </task>
+    <task id="LOCAL-00154">
+      <created>1405218930165</created>
+      <updated>1405218930165</updated>
+    </task>
+    <task id="LOCAL-00155">
+      <created>1405218943102</created>
+      <updated>1405218943102</updated>
+    </task>
+    <task id="LOCAL-00156">
+      <created>1405218961103</created>
+      <updated>1405218961103</updated>
+    </task>
+    <task id="LOCAL-00157">
+      <created>1405218979102</created>
+      <updated>1405218979102</updated>
+    </task>
+    <task id="LOCAL-00158">
+      <created>1405218993103</created>
+      <updated>1405218993103</updated>
+    </task>
+    <task id="LOCAL-00159">
+      <created>1405219090108</created>
+      <updated>1405219090108</updated>
+    </task>
+    <task id="LOCAL-00160">
+      <created>1405219103102</created>
+      <updated>1405219103102</updated>
+    </task>
+    <task id="LOCAL-00161">
+      <created>1405219114100</created>
+      <updated>1405219114100</updated>
+    </task>
+    <task id="LOCAL-00162">
+      <created>1405219119102</created>
+      <updated>1405219119102</updated>
+    </task>
+    <task id="LOCAL-00163">
+      <created>1405219400103</created>
+      <updated>1405219400103</updated>
+    </task>
+    <task id="LOCAL-00164">
+      <created>1405219406124</created>
+      <updated>1405219406124</updated>
+    </task>
+    <task id="LOCAL-00165">
+      <created>1405219417102</created>
+      <updated>1405219417102</updated>
+    </task>
+    <task id="LOCAL-00166">
+      <created>1405219588117</created>
+      <updated>1405219588117</updated>
+    </task>
+    <task id="LOCAL-00167">
+      <created>1405220053112</created>
+      <updated>1405220053112</updated>
+    </task>
+    <task id="LOCAL-00168">
+      <created>1405252864156</created>
+      <updated>1405252864157</updated>
+    </task>
+    <task id="LOCAL-00169">
+      <created>1405259267108</created>
+      <updated>1405259267108</updated>
+    </task>
+    <task id="LOCAL-00170" summary="百度云代码第一个版本">
+      <created>1406372440171</created>
+      <updated>1406372440172</updated>
+    </task>
+    <task id="LOCAL-00171" summary="百度云代码第一个版本">
+      <created>1406452538107</created>
+      <updated>1406452538107</updated>
+    </task>
+    <task id="LOCAL-00172" summary="百度云代码第一个版本">
+      <created>1406452549122</created>
+      <updated>1406452549122</updated>
+    </task>
+    <task id="LOCAL-00173" summary="百度云代码第一个版本">
+      <created>1406452559119</created>
+      <updated>1406452559119</updated>
+    </task>
+    <task id="LOCAL-00174" summary="百度云代码第一个版本">
+      <created>1406452569105</created>
+      <updated>1406452569105</updated>
+    </task>
+    <task id="LOCAL-00175" summary="百度云代码第一个版本">
+      <created>1406452579110</created>
+      <updated>1406452579110</updated>
+    </task>
+    <task id="LOCAL-00176" summary="百度云代码第一个版本">
+      <created>1408760518127</created>
+      <updated>1408760518127</updated>
+    </task>
+    <task id="LOCAL-00177" summary="百度云代码第一个版本">
+      <created>1409497158112</created>
+      <updated>1409497158112</updated>
+    </task>
+    <task id="LOCAL-00178" summary="百度云代码第一个版本">
+      <created>1409497170117</created>
+      <updated>1409497170118</updated>
+    </task>
+    <task id="LOCAL-00179" summary="百度云代码第一个版本">
+      <created>1409497187115</created>
+      <updated>1409497187115</updated>
+    </task>
+    <task id="LOCAL-00180" summary="百度云代码第一个版本">
+      <created>1409497214106</created>
+      <updated>1409497214106</updated>
+    </task>
+    <task id="LOCAL-00181" summary="百度云代码第一个版本">
+      <created>1409497365108</created>
+      <updated>1409497365108</updated>
+    </task>
+    <task id="LOCAL-00182" summary="百度云代码第一个版本">
+      <created>1409497465583</created>
+      <updated>1409497465583</updated>
+    </task>
+    <task id="LOCAL-00183" summary="百度云代码第一个版本">
+      <created>1409497488110</created>
+      <updated>1409497488110</updated>
+    </task>
+    <task id="LOCAL-00184" summary="百度云代码第一个版本">
+      <created>1409497507105</created>
+      <updated>1409497507106</updated>
+    </task>
+    <task id="LOCAL-00185" summary="百度云代码第一个版本">
+      <created>1410188187173</created>
+      <updated>1410188187173</updated>
+    </task>
+    <task id="LOCAL-00186" summary="百度云代码第一个版本">
+      <created>1410623923165</created>
+      <updated>1410623923165</updated>
+    </task>
+    <task id="LOCAL-00187" summary="百度云代码第一个版本">
+      <created>1410623933102</created>
+      <updated>1410623933102</updated>
+    </task>
+    <task id="LOCAL-00188" summary="百度云代码第一个版本">
+      <created>1410623947102</created>
+      <updated>1410623947102</updated>
+    </task>
+    <task id="LOCAL-00189" summary="百度云代码第一个版本">
+      <created>1410623957102</created>
+      <updated>1410623957102</updated>
+    </task>
+    <task id="LOCAL-00190" summary="百度云代码第一个版本">
+      <created>1410623968102</created>
+      <updated>1410623968102</updated>
+    </task>
+    <task id="LOCAL-00191" summary="百度云代码第一个版本">
+      <created>1410623977102</created>
+      <updated>1410623977102</updated>
+    </task>
+    <task id="LOCAL-00192" summary="百度云代码第一个版本">
+      <created>1410662222126</created>
+      <updated>1410662222126</updated>
+    </task>
+    <task id="LOCAL-00193" summary="百度云代码第一个版本">
+      <created>1410664081116</created>
+      <updated>1410664081116</updated>
+    </task>
+    <task id="LOCAL-00194" summary="百度云代码第一个版本">
+      <created>1410664909106</created>
+      <updated>1410664909106</updated>
+    </task>
+    <task id="LOCAL-00195" summary="百度云代码第一个版本">
+      <created>1414328598212</created>
+      <updated>1414328598213</updated>
+    </task>
+    <task id="LOCAL-00196" summary="百度云代码第一个版本">
+      <created>1414328789121</created>
+      <updated>1414328789121</updated>
+    </task>
+    <task id="LOCAL-00197" summary="百度云代码第一个版本">
+      <created>1414942196122</created>
+      <updated>1414942196123</updated>
+    </task>
+    <task id="LOCAL-00198" summary="百度云代码第一个版本">
+      <created>1414942247107</created>
+      <updated>1414942247107</updated>
+    </task>
+    <task id="LOCAL-00199" summary="百度云代码第一个版本">
+      <created>1414942258112</created>
+      <updated>1414942258112</updated>
+    </task>
+    <task id="LOCAL-00200" summary="百度云代码第一个版本">
+      <created>1414942314120</created>
+      <updated>1414942314120</updated>
+    </task>
+    <task id="LOCAL-00201" summary="百度云代码第一个版本">
+      <created>1414942338119</created>
+      <updated>1414942338119</updated>
+    </task>
+    <task id="LOCAL-00202" summary="百度云代码第一个版本">
+      <created>1414942358121</created>
+      <updated>1414942358121</updated>
+    </task>
+    <task id="LOCAL-00203" summary="百度云代码第一个版本">
+      <created>1414942406109</created>
+      <updated>1414942406109</updated>
+    </task>
+    <task id="LOCAL-00204" summary="百度云代码第一个版本">
+      <created>1414942748107</created>
+      <updated>1414942748107</updated>
+    </task>
+    <task id="LOCAL-00205" summary="百度云代码第一个版本">
+      <created>1415371533203</created>
+      <updated>1415371533203</updated>
+    </task>
+    <task id="LOCAL-00206" summary="百度云代码第一个版本">
+      <created>1415446885383</created>
+      <updated>1415446885384</updated>
+    </task>
+    <task id="LOCAL-00207" summary="百度云代码第一个版本">
+      <created>1415446903118</created>
+      <updated>1415446903118</updated>
+    </task>
+    <task id="LOCAL-00208" summary="百度云代码第一个版本">
+      <created>1415446918110</created>
+      <updated>1415446918110</updated>
+    </task>
+    <task id="LOCAL-00209" summary="百度云代码第一个版本">
+      <created>1415446933110</created>
+      <updated>1415446933110</updated>
+    </task>
+    <task id="LOCAL-00210" summary="百度云代码第一个版本">
+      <created>1415446943115</created>
+      <updated>1415446943116</updated>
+    </task>
+    <task id="LOCAL-00211" summary="百度云代码第一个版本">
+      <created>1415447880105</created>
+      <updated>1415447880105</updated>
+    </task>
+    <task id="LOCAL-00212" summary="百度云代码第一个版本">
+      <created>1415456756106</created>
+      <updated>1415456756107</updated>
+    </task>
+    <task id="LOCAL-00213" summary="百度云代码第一个版本">
+      <created>1415456813318</created>
+      <updated>1415456813319</updated>
+    </task>
+    <task id="LOCAL-00214" summary="百度云代码第一个版本">
+      <created>1417864440193</created>
+      <updated>1417864440193</updated>
+    </task>
+    <option name="localTasksCounter" value="215" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6185567" sideWeight="0.638088" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45532647" sideWeight="0.3566009" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.6735395" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5532646" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19954476" sideWeight="0.5704467" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39984825" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24051593" sideWeight="0.54467356" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46391752" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3161512" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="百度云代码第一个版本" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="百度云代码第一个版本" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/fyjd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/fz.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/zyry.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/xml/Area.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="21" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sggw/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sggw/dao/AdminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1392" column="0" selection-start="49328" selection-end="49328" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sggw/web/FileUploadAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="50" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.5.0_11/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="44" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/zyjs.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="75" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/alzs/ylgc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="42" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/alzs/ylgc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="23" selection-start="1421" selection-end="9653" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/alzs/jcgx.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="85" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/alzs/csfx.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="42" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/alzs/jsfx.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="60" selection-start="2435" selection-end="2483" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="59" selection-start="387" selection-end="387" vertical-scroll-proportion="-5.6666665">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="301" selection-end="301" vertical-scroll-proportion="0.33497536">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sggw</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (sggw)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sggw</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

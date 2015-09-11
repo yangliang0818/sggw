@@ -1,0 +1,73 @@
+<%@ taglib prefix="s" uri="/struts-tags" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib uri="/struts-tags" prefix="s" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>交通事故_医疗事故_伤残鉴定_事故咨询_事故问-遇到事故你就问</title>
+    <META name="keywords" content="伤残鉴定,伤残等级,交通事故鉴定,医疗事故鉴定">
+    <meta name="description" content="伤残鉴定、伤残等级、交通事故鉴定、医疗事故鉴定咨询；争议性鉴定报告评估；专业律师委托；专家证人出庭。全方位事故处理专业服务，费用更低，权益更有保障。" />
+    <link href="http://www.shiguwen.com/css/detail.css" type="text/css" rel="stylesheet"/>
+    <script src="http://www.shiguwen.com/js/script_gizp.js"></script>
+</head>
+<body>
+<!--header begin -->
+<jsp:include page="head.jsp?menuid=m1"></jsp:include>
+<!-- mainbody begin-->
+<div class="mainbody">
+    <!-- lay_s255_m begin-->
+    <div class="lay_s255_m">
+        <!-- lay_sub begin-->
+        <jsp:include page="left.jsp?itemid=item5"></jsp:include>
+        <!-- lay_main begin-->
+        <div class="lay_main">
+            <div class="breadcrumb">您当前的位置是:
+                <a href="http://www.shiguwen.com">首页 <em>&gt;</em></a>
+                联系我们
+            </div>
+            <div class="aticle">
+                <h5>联系我们
+                </h5>
+                <P  align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;服务热线:&nbsp;&nbsp;400 021
+                    9060</P><BR>
+
+                <P  align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;址:&nbsp;&nbsp;上海市浦东新区向城路29号爵士大厦B3A室（近地铁二、四、六、九号线世纪大道站）
+                </p> <BR>
+                <P  align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编:&nbsp;&nbsp;200120</P>
+                <BR>
+                 <P  align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话:&nbsp;&nbsp;021-54315344
+                 </P> <BR>
+					
+                <P  align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮件:&nbsp;&nbsp;info@shiguwen.com
+                </P> <BR>
+
+                <P  align="left">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业务QQ&nbsp;:&nbsp;&nbsp;&nbsp;2306888351
+                </P>
+                <BR>
+
+                <P  align="center" style="margin-top: 20px;">
+                    <jsp:include page="address.jsp"></jsp:include>
+                </P>
+            </div>
+            <div style="border: 1px solid;border-color: #ddd; height: 160px;">
+                <jsp:include page="interest.jsp?pagename=zyfx" flush="false"></jsp:include>
+            </div>
+        </div>
+    </div>
+</div>
+<jsp:include page="footer.jsp"></jsp:include>
+</body>
+</html>

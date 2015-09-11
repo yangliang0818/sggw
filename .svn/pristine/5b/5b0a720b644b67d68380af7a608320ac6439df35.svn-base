@@ -1,0 +1,123 @@
+.floatLeft {
+    MARGIN-TOP: 5px;
+    FLOAT: left;
+    MARGIN-LEFT: 0px;
+    MARGIN-RIGHT: 0px
+}
+
+.floatRight {
+    MARGIN-TOP: 5px;
+    FLOAT: right;
+    MARGIN-LEFT: 10px;
+    MARGIN-RIGHT: 10px;
+    min-width: 100px
+}
+
+.welcomeImage {
+    FLOAT: left
+}
+
+.welcomeImage IMG {
+    BORDER-RIGHT: #cccccc 1px solid;
+    BORDER-TOP: #cccccc 1px solid;
+    MARGIN-TOP: 5px;
+    MARGIN-LEFT: 0px;
+    BORDER-LEFT: #cccccc 1px solid;
+    MARGIN-RIGHT: 10px;
+    BORDER-BOTTOM: #cccccc 1px solid
+}
+
+.caption {
+    MARGIN-TOP: -3px;
+    FONT-SIZE: 8pt;
+    PADDING-BOTTOM: 2px;
+    COLOR: #666666;
+    FONT-FAMILY: Verdana
+}
+
+.caption P {
+    MARGIN-BOTTOM: 2px;
+    PADDING-TOP: 2px
+}
+
+.header {
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 8pt;
+    PADDING-BOTTOM: 0px;
+    COLOR: #666666;
+    BORDER-BOTTOM: #cccccc 1px solid;
+    FONT-FAMILY: Tahoma;
+    WHITE-SPACE: nowrap;
+    TEXT-ALIGN: right
+}
+
+.dateLine {
+    FONT-WEIGHT: bold;
+    FLOAT: left;
+    WHITE-SPACE: nowrap
+}
+
+.pageContent {
+    FONT-SIZE: 9pt;
+    COLOR: #666666;
+    FONT-FAMILY: Tahoma
+}
+
+.pageContent UL {
+    CLEAR: both
+}
+
+.pageContent OL {
+    CLEAR: both
+}
+
+.splashLinkArea {
+    BORDER-RIGHT: #cccccc 1px solid;
+    BORDER-TOP: #cccccc 1px solid;
+    MIN-HEIGHT: 100px;
+    BORDER-LEFT: #cccccc 1px solid;
+    BORDER-BOTTOM: #cccccc 1px solid;
+    HEIGHT: 100px
+}
+
+.imageSplash {
+    DISPLAY: block;
+    WIDTH: 100%;
+    TEXT-ALIGN: center
+}
+
+.imageSplash IMG {
+    BORDER-RIGHT: #cccccc 1px solid;
+    BORDER-TOP: #cccccc 1px solid;
+    BORDER-LEFT: #cccccc 1px solid;
+    BORDER-BOTTOM: #cccccc 1px solid
+}
+
+.splashLinkFrame {
+    CLEAR: both;
+    DISPLAY: block;
+    MIN-HEIGHT: 100px;
+    WIDTH: 100%;
+    HEIGHT: 100px
+}
+
+.floatingRelatedLinks {
+    BORDER-RIGHT: #cccccc 1px solid;
+    BORDER-TOP: #cccccc 1px solid;
+    MARGIN-TOP: 5px;
+    DISPLAY: inline;
+    FLOAT: right;
+    MARGIN-LEFT: 10px;
+    BORDER-LEFT: #cccccc 1px solid;
+    WIDTH: 150px;
+    MARGIN-RIGHT: 0px;
+    BORDER-BOTTOM: #cccccc 1px solid;
+    min-width: 150px
+}
+
+.removeMargins {
+    MARGIN-TOP: -11px;
+    MARGIN-LEFT: -11px;
+    MARGIN-RIGHT: -10px
+}

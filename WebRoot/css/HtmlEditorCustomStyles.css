@@ -1,0 +1,81 @@
+IMG.ms-rteCustom-Grafikrahmen {
+    BORDER-RIGHT: #0000ff 5px double;
+    PADDING-RIGHT: 4px;
+    BORDER-TOP: #0000ff 5px double;
+    PADDING-LEFT: 6px;
+    PADDING-BOTTOM: 1px;
+    BORDER-LEFT: #0000ff 5px double;
+    COLOR: #ff0000;
+    PADDING-TOP: 1px;
+    BORDER-BOTTOM: #0000ff 5px double;
+    BACKGROUND-COLOR: #9fc2f1;
+    TEXT-ALIGN: center
+}
+
+A.ms-rteCustom-Hyperlinkformat:link {
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10pt;
+    COLOR: #003399;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana;
+    FONT-VARIANT: normal
+}
+
+A.ms-rteCustom-Hyperlinkformat:visited {
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10pt;
+    COLOR: #008080;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana;
+    FONT-VARIANT: normal
+}
+
+A.ms-rteCustom-Hyperlinkformat:hover {
+    FONT: 10pt Verdana, Arial, Helvetica;
+    COLOR: red
+}
+
+OL.ms-rteCustom-ListeR?mischerZahlen {
+    PADDING-LEFT: 10px;
+    FONT-SIZE: 10pt;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: #595959;
+    TEXT-INDENT: 0px;
+    FONT-FAMILY: Tahoma;
+    LIST-STYLE-TYPE: upper-roman;
+    TEXT-ALIGN: left
+}
+
+UL.ms-rteCustom-ListeMitQuadratischenAufz?hlungszeichen {
+    PADDING-LEFT: 10px;
+    FONT-SIZE: 10pt;
+    WORD-SPACING: 0px;
+    COLOR: #595959;
+    TEXT-INDENT: 0px;
+    LINE-HEIGHT: 150%;
+    FONT-FAMILY: Tahoma;
+    LIST-STYLE-TYPE: square;
+    TEXT-ALIGN: left
+}
+
+.ms-rteCustom-Artikeltitel {
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: #015263;
+    FONT-FAMILY: Arial
+}
+
+.ms-rteCustom-ArtikelNachZeile {
+    FONT-SIZE: 10pt;
+    COLOR: #7f7f7f;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Arial
+}
+
+.ms-rteCustom-Artikel��berschrift {
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #01778f;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}

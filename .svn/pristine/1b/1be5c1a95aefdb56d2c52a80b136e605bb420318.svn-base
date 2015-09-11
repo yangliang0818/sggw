@@ -1,0 +1,91 @@
+<%@ taglib prefix="s" uri="/struts-tags" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib uri="/struts-tags" prefix="s" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>交通事故_医疗事故_伤残鉴定_事故咨询_事故问-遇到事故你就问</title>
+    <meta name="keywords" content="伤残鉴定,伤残等级,交通事故,交通事故鉴定,医疗事故鉴定">
+    <meta name="description" content="伤残鉴定、伤残等级、交通事故、交通事故鉴定、医疗事故鉴定咨询;争议性鉴定报告评估;专业律师委托;专家证人出庭.全方位事故处理专业服务,费用更低,权益更有保障."/>
+    <link href="css/detail.css" type="text/css" rel="stylesheet"/>
+    <script src="js/script_gizp.js"></script>
+    <script type="text/javascript">
+        function document.onkeydown() {
+            if ((window.event.altKey) &&
+                    ((window.event.keyCode == 37) || //屏蔽 Alt+ 方向键 ←
+                            (window.event.keyCode == 39)))  //屏蔽 Alt+ 方向键 →
+            {
+                alert("不准你使用ALT+方向键前进或后退网页！");
+                event.returnValue = false;
+            }
+            //注：这还不是真正地屏蔽 Alt+ 方向键，因为 Alt+ 方向键弹出警告框时，按住 Alt 键不放，
+            //用鼠标点掉警告框，这种屏蔽方法就失效了。以后若有哪位高手有真正屏蔽 Alt 键的方法，请告知。
+            if ((event.keyCode == 8) || //屏蔽退格删除键
+                    (event.keyCode == 116) || //屏蔽 F5 刷新键
+                    (event.ctrlKey && event.keyCode == 82)) {       //Ctrl + R
+                event.keyCode = 0;
+                event.returnValue = false;
+            }
+            if (event.keyCode == 122) {
+                event.keyCode = 0;
+                event.returnValue = false;
+            }   //屏蔽F11
+            if (event.ctrlKey && event.keyCode == 78) event.returnValue = false;    //屏蔽 Ctrl+n
+            if (event.shiftKey && event.keyCode == 121) event.returnValue = false;  //屏蔽 shift+F10
+            if (window.event.srcElement.tagName == "A" && window.event.shiftKey)
+                window.event.returnValue = false;                               //屏蔽 shift 加鼠标左键新开一网页
+            if ((window.event.altKey) && (window.event.keyCode == 115)) {           //屏蔽Alt+F4
+                window.showModelessDialog("about:blank", "", "dialogWidth:1px;dialogheight:1px");
+                return false;
+            }
+        }
+    </script>
+</head>
+<body>
+<!--header begin -->
+<jsp:include page="head.jsp?menuid=m3"></jsp:include>
+<!-- mainbody begin-->
+<div class="mainbody">
+    <!-- lay_s255_m begin-->
+    <div class="lay_s255_m">
+        <!-- lay_sub begin-->
+        <jsp:include page="left.jsp?itemid=item5"></jsp:include>
+        <!-- lay_main begin-->
+        <div class="lay_main">
+            <div class="breadcrumb">您当前的位置是:<a href="http://www.shiguwen.com">首页 <em>&gt;</em></a>
+                <a href="../morearea.html">为更好获得帮助，以下知识对您很重要<em>&gt;</em></a>
+                医学鉴定前期评估的必要性
+            </div>
+            <div class="aticle">
+                <h5>医学鉴定前期评估的必要性</h5>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在医疗事故的处理中，医学鉴定往往是一个必须的环节，通过医学鉴定来确定医院责任的大小，为进一步的理赔诉讼提供依据。但不管是医学会做的医疗事故鉴定还是司法鉴定机 构做的医疗过错鉴定，都难免让当事人纠结。不做鉴定吧，医院不承认自己有过错；做了鉴定吧，万一鉴定结果不理想，岂不是搬起石头砸自己的脚。在对鉴定结果心里没底的情 况下盲目去做鉴定，风险很大，一旦鉴定结果对自己不利，花钱不说，关键是再向医院索赔难上加难。曾经有一个整容失败的案例，没做鉴定之前，医院通过协商愿意赔偿 当事人20万；做完鉴定之后，根据鉴定结果，医院只同意赔5万。这是几年前的一起事故，当事人到现在还在折腾。</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;那么，如何避免盲目的鉴定给自己带来的风险呢？事故问的医学鉴定评估服务可以为当事人很好的解决这一问题。</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;医学鉴定评估服务由法医鉴定专家提供。专家可以对病历等材料进行分析，出具评估意见报告，为当事人提供专业的指导。
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专家评估报告的作用是：</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）从专业鉴定的角度分析医院的过错与责任，使当事人在正式鉴定之前做到心中有数，再决定是否有必要做鉴定。比如，若专家认为医院过错不明显，则当事人就没必要再做鉴 定，既省下了上万元的鉴定费用，又避免鉴定结果对自己不利。
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）正式鉴定时，可把专家意见提前和鉴定机构沟通，有利于得到客观公正的鉴定结论。
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，若鉴定后对鉴定结果不满，专家可对原鉴定报告进行审核，若发现鉴定结论错误，可以帮助举证，以推翻原鉴定报告的效力，并在必要时启动重新鉴定。如果没有专业的证据，要么难以启动重新鉴定，要么重新鉴定结论维持原来的结果，当事人则要承担两次的鉴定费用，耽误时间又耗费金钱。
+                </p>
+            </div>
+            <div style="border: 1px solid;border-color: #ddd; height: 150px;">
+                <jsp:include page="interest.jsp?pagename=wzjj" flush="false"></jsp:include>
+            </div>
+        </div>
+    </div>
+</div>
+<jsp:include page="footer.jsp"></jsp:include>
+</body>
+</html>

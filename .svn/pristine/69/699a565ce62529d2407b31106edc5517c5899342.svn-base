@@ -1,0 +1,175 @@
+.formCellButtons {
+    MARGIN: 10px 0px 5px 130px
+}
+
+.formCellControl {
+    MARGIN-TOP: 2px;
+    MARGIN-BOTTOM: 2px
+}
+
+.searchButton {
+    MARGIN-LEFT: 20px
+}
+
+#orderform {
+    FONT-WEIGHT: bold
+}
+
+.formCellControl SELECT {
+    WIDTH: 265px
+}
+
+.textboxZipCode {
+    WIDTH: 80px;
+    MARGIN-RIGHT: 10px
+}
+
+.textboxCity {
+    WIDTH: 165px
+}
+
+.CenterColumnShop .relatedTitle {
+    MARGIN-TOP: 0px;
+    PADDING-LEFT: 0px
+}
+
+.relatedTitle SPAN {
+    MARGIN: 0px 5px
+}
+
+.ms-WPBody {
+    PADDING-TOP: 0px
+}
+
+.ms-WPBody SELECT {
+    DISPLAY: inline
+}
+
+.pageContentShop .RightColumn .relatedTitle {
+    MARGIN-TOP: 0px
+}
+
+.listitem {
+    PADDING-LEFT: 0px;
+    BACKGROUND-IMAGE: none
+}
+
+.cartlist TD {
+    PADDING-BOTTOM: 2px;
+    VERTICAL-ALIGN: top;
+    PADDING-TOP: 2px;
+    BORDER-BOTTOM: #c8c8c8 1px solid;
+    TEXT-ALIGN: right
+}
+
+.cartitemtitle {
+    PADDING-LEFT: 5px
+}
+
+.orderButtonArea {
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 10px;
+    PADDING-TOP: 10px;
+    BACKGROUND-COLOR: #73aa36;
+    TEXT-ALIGN: center
+}
+
+.tdArtNr {
+    TEXT-ALIGN: right
+}
+
+.tdYear {
+    TEXT-ALIGN: right
+}
+
+.tblCartButton {
+    MARGIN-BOTTOM: 10px;
+    HEIGHT: 28px;
+    BACKGROUND-COLOR: #ededed
+}
+
+.tblCartButton TD {
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    VERTICAL-ALIGN: middle;
+    PADDING-TOP: 0px
+}
+
+.prodSpacer {
+    WIDTH: 7px;
+    BACKGROUND-COLOR: #fff
+}
+
+.prodPrice {
+    WIDTH: 100px;
+    TEXT-ALIGN: right
+}
+
+.prodPrice SPAN {
+    FONT-WEIGHT: bold;
+    MARGIN-RIGHT: 10px
+}
+
+.prodCount {
+    WIDTH: 40px;
+    TEXT-ALIGN: center
+}
+
+.prodCount INPUT {
+    WIDTH: 30px
+}
+
+.prodCart {
+    WIDTH: 40px;
+    TEXT-ALIGN: center
+}
+
+.prodCart INPUT {
+    BORDER-TOP-WIDTH: 0px;
+    BORDER-LEFT-WIDTH: 0px;
+    BORDER-BOTTOM-WIDTH: 0px;
+    BORDER-RIGHT-WIDTH: 0px
+}
+
+.tblCartButton A {
+    PADDING-RIGHT: 20px;
+    DISPLAY: block;
+    BACKGROUND: url(../../Images/Icons/acrobat.gif) no-repeat right 50%;
+    MARGIN-LEFT: 5px;
+    MARGIN-RIGHT: 5px
+}
+
+.prodStat1 {
+    FONT-WEIGHT: bold;
+    WIDTH: 80px;
+    COLOR: #ff0000;
+    TEXT-ALIGN: center
+}
+
+.prodStat2 {
+    WIDTH: 180px
+}
+
+.footer {
+    PADDING-LEFT: 232px;
+    MARGIN: 10px 0px 20px
+}
+
+.footer-box {
+    WIDTH: 535px
+}
+
+.pageTeaserConten {
+    MARGIN-TOP: 5px;
+    MARGIN-BOTTOM: 15px
+}
+
+.shopTotal {
+    BACKGROUND-COLOR: #d2d2d2
+}
+
+#isBfuShopProgressPanel {
+    PADDING-TOP: 10px
+}

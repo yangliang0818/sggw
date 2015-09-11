@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 2.0//EN"
+        "http://tuckey.org/res/dtds/urlrewrite2.dtd">
+
+<urlrewrite>
+    <rule>
+        <from>/product.([0-9]+).htm</from>
+        <to>/index.jsp?pro=$1</to>
+    </rule>
+
+    <rule>
+        <from>/sort.([0-9]+).([0-9]+).htm</from>
+        <to>/index.jsp?sort1=$1&amp;sort2=$2</to>
+    </rule>
+
+    <rule>
+        <from>/servarea.(.*).html</from>
+        <to>servarea!qryServArea.action?province=$1</to>
+    </rule>
+    <rule>
+        <from>/pressarea.(.*).html</from>
+        <to>pressarea!qryPressArea.action?index=$1</to>
+    </rule>
+    <rule>
+        <from>/presslist.(.*).html</from>
+        <to>presslist!qryPagePress.action?index=$1</to>
+    </rule>
+    <rule>
+        <from>/newasklist.(.*).html</from>
+        <to>newasklist!qryMoreNewAsk.action?index=$1</to>
+    </rule>
+    <rule>
+        <from>addls.html</from>
+        <to>djls!addLsInfo.action</to>
+    </rule>
+    <rule>
+        <from>/s-list.(.*).html</from>
+        <to>/scjd/s-list!qryRTSHLink.action?index=$1</to>
+    </rule>
+    <rule>
+        <from>/s-([0-9]+).html</from>
+        <to>/scjd/s-$1.action</to>
+    </rule>
+    <rule>
+        <from>/j-list.(.*).html</from>
+        <to>/jtsg/j-list!qryJTSGLink.action?index=$1</to>
+    </rule>
+    <rule>
+        <from>/j-([0-9]+).html</from>
+        <to>/jtsg/j-$1.action</to>
+    </rule>
+    <rule>
+        <from>/xc.html</from>
+        <to>/xcbd/xc.action</to>
+    </rule>
+    <rule>
+        <from>/x-([0-9]+).html</from>
+        <to>/xcbd/x-$1.action</to>
+    </rule>
+    <rule>
+        <from>/alzs/*.html</from>
+        <to>/alzs/.action</to>
+    </rule>
+    <rule>
+        <from>/jdjg/*.html</from>
+        <to>/jdjg/.action</to>
+    </rule>
+    <rule>
+        <from>/swpc/*.html</from>
+        <to>/swpc/.action</to>
+    </rule>
+    <rule>
+        <from>/link.([a-z]+).htm</from>
+        <to>/index.jsp?link=$1</to>
+    </rule>
+    <rule>
+        <from>/web/*.html</from>
+        <to>/web/.action</to>
+    </rule>
+
+    <rule>
+        <from>/*.html</from>
+        <to type="forward">.action</to>
+    </rule>
+</urlrewrite>
+

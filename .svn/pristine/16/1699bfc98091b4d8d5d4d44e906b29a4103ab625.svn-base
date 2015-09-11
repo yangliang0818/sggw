@@ -1,0 +1,96 @@
+<%@ taglib prefix="s" uri="/struts-tags" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>交通事故_医疗事故_伤残鉴定_事故咨询_事故问-遇到事故你就问</title>
+    <link rel="stylesheet" href="http://www.shiguwen.com/css/jquery.mobile-1.4.0-rc.1.css">
+    <link rel="stylesheet" href="http://www.shiguwen.com/css/web/mobile.css">
+    <!--必须框架jquery,jquery.mobile-->
+    <script type="text/javascript" src="http://www.shiguwen.com/js/jquery.js"></script>
+    <script type="text/javascript" src="http://www.shiguwen.com/js/jquery.mobile-1.4.0-rc.1.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            /*下拉菜单效果*/
+            $(".ui-block-a:eq(0),.ui-block-b:eq(0),.ui-block-c:eq(0),.ui-block-d:eq(0),.ui-block-e:eq(0)").hover(function () {
+                $(this).find("ul").removeClass("ui-grid-c").show();
+            }, function () {
+                $(this).find("ul").hide();
+            });
+        });
+    </script>
+</head>
+<body>
+<div data-role="page">
+    <!--网站标题及相关导航-->
+    <div id="head" data-role="header" data-theme="b">
+        <jsp:include page="head.jsp" flush="false"></jsp:include>
+    </div>
+
+    <div class="ui-content" style="font-size: 14px; line-height: 1.8">
+        <h3 style="color: #ab7c12">
+            <B>医疗纠纷处理现状及对策</B>
+        </h3>
+
+                <p><B>一、医疗纠纷处理现状</B></p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在我国，每年都会发生大量的医疗纠纷，给患方造成巨大的身心伤害与经济损失。发生医疗纠纷时，患方通常采用以下几种方式维权：</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、在没有经过鉴定或专业咨询的情况下，自行和医院调解。</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、通过医学会做医疗事故鉴定，或通过司法鉴定机构做医疗过错鉴定。</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、聘请专业律师，走法律诉讼途径。</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大量的实践表明，以上几种维权方式都存在弊端。</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，自行和医院调解。由于医疗纠纷的专业性强，患方拿不出专业的证据，因此在调解中处于下风。医院一般会以各种理由（如“不可控制的手术风险”）进行辩解，并以患方已签署风险告知书等借口为自己开脱。而患方很难判断医院的对错，也拿不出有力的证据进行反驳。这种情况下，患方要么得不到赔偿，要么仅得到很少的赔偿。 
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，医学会组织的医疗事故鉴定。稍微了解医疗事故鉴定的人都知道，医学会与医院同属卫生系统，彼此有着千丝万缕的联系，医疗事故鉴定往往不够客观公正。因此，医疗事故鉴定应该谨慎，以防给自己套上"枷锁"。
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相比医学会组织的医疗事故鉴定，由司法鉴定机构所做的医疗过错鉴定相对公正，其法律效力也强于医疗事故鉴定。但医疗过错司法鉴定一般需要由医患双方共同委托，或经法院委托，否则不予受理。此外，如果不清楚医院的过错，冒然做司法鉴定，一旦鉴定结果对自己不利，相当于以法定证据替医院推卸了责任，这时候再想向医院索赔，难上加难。花了高额的鉴定费，却起到了相反的效果。 
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三、聘请律师。由于医疗纠纷处理周期长、过程复杂，因此聘请律师费用较高，尤其是有经验的律师，一般都要数万元。这对于很多因治病而倾家荡产的患方来说，无疑是雪上加霜。万一找到不称职的律师，更是白花冤枉钱。
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正是由于以上种种的不如人意，造成许多患方求助无门，维权最终演变成医闹。2014年4月22日，最高人民法院、最高人民检察院、公安部、司法部等联合发布《关于依法惩处涉医违法犯罪维护正常医疗秩序的意见》。根据该《意见》，伤害医护人员的行为不仅要依法严处，连在医院摆放花圈、悬挂横幅、堵塞大门等行为也将受到处罚。因此，通过医闹的方式维权也变成了死路一条。 
+                </p>
+
+                <p><B>二、对策</B>
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在自行调解效果差、事故鉴定风险大、聘请律师费用高、医闹不可取的困境下，面对医疗纠纷，患方还有没有更好的方式进行维权？
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;答案是肯定的，那就是事故问为患方打造的一套维权“组合拳”。事故问作为首个致力于事故处理服务的平台，拥有经验丰富的医学/法医专家、鉴定人才，以及专业医疗律师等资源。在大量的医疗事故处理经验的基础上，事故问从患方的切身利益出发，根据不同的情况，为患方制定了不同的维权策略。
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、自行和医院调解。调解之前，医学/法医专家对医院的过错、因果关系、赔偿金额等进行分析，并出具签字的分析意见报告，作为调解的专业依据，避免患方“两眼一抹黑”，被医院牵着鼻子走。当事人额外得到的赔偿要远远大于支付给专家的费用。
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、做医疗事故鉴定或医疗过错司法鉴定。鉴定之前，专家对鉴定的风险进行评估，以确定是否有必要进行鉴定；司法鉴定时，专家帮助撰写专业的司法鉴定申请书，以及司法鉴定听证会的患方陈述意见；若对鉴定结果不服，专家还可对鉴定报告进行审核，若发现鉴定结论错误，可以帮助举证，以启动重新鉴定。
+                </p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、聘请律师。事故问作为专业的事故处理服务平台，拥有全国各地的医疗律师合作伙伴。若患方有法律服务需求，可以在当地找到我们的合作律师。</p>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于高昂的律师费用，事故问除了可以协调律师对费用进行优惠之外，更重要的是，可以使律师分开收费：即前期只收取少部分费用，争取到医院赔偿后，再按比例收取后期费用；争取不到赔偿，则不收后期费用。分开收费的好处，一是大大减轻了患方前期的经济负担，二是使律师与患方的利益真正做到了一致，可以更好的发挥律师的积极性，有效防止“光拿钱不做事”的情况。
+                </p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，聘请了事故问的合作律师，事故问的专家将根据案情所需，免费参与案件的处理，相当于患方拥有了一个“法律+技术”的专业性服务团队。对于医疗纠纷这种带有强烈技术背景的案子，“法律+技术”的综合性服务，维权效果更好，因而受到患方广泛的欢迎。</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当然，没有任何一种维权方式是绝对有效的，尤其是在国内大的司法环境下。因此，患方对维权一定要有充分的思想准备，并根据实际情况，选择适合自己的维权方式。争取以最小的代价，获得最好的效果。
+                </p>
+                
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(事故问原创，转载请注明出处)</p>
+    </div>
+    <!--底部版权信息-->
+    <div data-role="footer" data-position="fixed" data-tap-toggle="false">
+        <jsp:include page="footer.jsp"></jsp:include>
+    </div>
+</div>
+</body>
+</html>

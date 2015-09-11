@@ -1,0 +1,789 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+
+<HTML dir=ltr __expr-val-dir="ltr">
+<HEAD><TITLE>富维事故顾问网 - 交通事故、医疗事故、人身伤害事故一站式服务</TITLE>
+<META content="MSHTML 6.00.2900.6182" name=GENERATOR>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META http-equiv=Expires content=0>
+<META content=NOHTMLINDEX name=ROBOTS>
+<LINK href="index.files/controls.css"
+      type=text/css rel=stylesheet>
+<LINK href="index.files/HtmlEditorCustomStyles.css"
+      type=text/css rel=stylesheet>
+<LINK href="index.files/HtmlEditorTableFormats.css"
+      type=text/css rel=stylesheet>
+<LINK href="index.files/pageLayouts.css"
+      type=text/css rel=stylesheet>
+<LINK href="index.files/core.css" type=text/css
+      rel=stylesheet>
+<LINK media=screen href="index.files/BFU_Core.css" type=text/css
+      rel=stylesheet>
+<LINK media=screen
+      href="" type=text/css
+      rel=stylesheet>
+<LINK media=print href="index.files/BFU_Core_Print.css"
+      type=text/css rel=stylesheet>
+<LINK href="index.files/BFU_Shop.css" type=text/css
+      rel=stylesheet>
+<SCRIPT src="index.files/init.js"></SCRIPT>
+
+<SCRIPT language=javascript src="index.files/core.js" defer
+        type=text/javascript></SCRIPT>
+
+<SCRIPT language=javascript src="index.files/ie55up.js"
+        type=text/javascript></SCRIPT>
+
+<SCRIPT src="index.files/CustomFunctions.js" type=text/javascript></SCRIPT>
+
+<STYLE type=text/css>
+.zz1_GlobalNav_0 {
+    DISPLAY: none;
+    LEFT: 0px;
+    VISIBILITY: hidden;
+    POSITION: absolute;
+    TOP: 0px;
+    BACKGROUND-COLOR: white
+}
+
+.zz1_GlobalNav_1 {
+    TEXT-DECORATION: none
+}
+
+.zz1_GlobalNav_2 {
+
+}
+
+.zz1_GlobalNav_3 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz1_GlobalNav_4 {
+
+}
+
+.zz1_GlobalNav_5 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz1_GlobalNav_6 {
+
+}
+
+.zz1_GlobalNav_7 {
+
+}
+
+.zz1_GlobalNav_8 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz1_GlobalNav_9 {
+
+}
+
+.zz1_GlobalNav_10 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz1_GlobalNav_11 {
+
+}
+
+.zz1_GlobalNav_12 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz1_GlobalNav_13 {
+
+}
+
+.zz2_CurrentNav_0 {
+    DISPLAY: none;
+    LEFT: 0px;
+    VISIBILITY: hidden;
+    POSITION: absolute;
+    TOP: 0px;
+    BACKGROUND-COLOR: white
+}
+
+.zz2_CurrentNav_1 {
+    TEXT-DECORATION: none
+}
+
+.zz2_CurrentNav_2 {
+
+}
+
+.zz2_CurrentNav_3 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz2_CurrentNav_4 {
+
+}
+
+.zz2_CurrentNav_5 {
+
+}
+
+.zz2_CurrentNav_6 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz2_CurrentNav_7 {
+
+}
+
+.zz2_CurrentNav_8 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz2_CurrentNav_9 {
+
+}
+
+.zz2_CurrentNav_10 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz2_CurrentNav_11 {
+
+}
+
+.zz2_CurrentNav_12 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz2_CurrentNav_13 {
+
+}
+
+.zz2_CurrentNav_14 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz2_CurrentNav_15 {
+
+}
+
+.zz2_CurrentNav_16 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz2_CurrentNav_17 {
+
+}
+
+.zz2_CurrentNav_18 {
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.zz2_CurrentNav_19 {
+
+}
+
+.STYLE57 {
+    color: #000000;
+    font-size: 13px;
+    font-family: "??";
+}
+
+.STYLE52 {
+    FONT-SIZE: x-small;
+    COLOR: #000000;
+    FONT-FAMILY: "??";
+}
+
+.STYLE58 {
+    font-family: "宋体";
+    font-size: 15px;
+}
+
+.STYLE59 {
+    font-family: "宋体"
+}
+
+.STYLE65 {
+    color: #cd5a00;
+    font-weight: bold;
+}
+
+.STYLE66 {
+    font-size: small;
+    color: #000000;
+}
+.STYLE69 {
+	font-size: 14px;
+	font-family: "新宋体";
+}
+.STYLE70 {
+	font-size: 14px;
+	color: #000000;
+}
+.STYLE72 {font-size: 12px}
+.STYLE73 {font-size: 14px; font-family: "新宋体"; font-weight: bold; }
+.STYLE74 {font-size: 14}
+.STYLE75 {font-size: 14px}
+.STYLE76 {font-family: "宋体"; font-size: 14px; }
+</STYLE>
+</HEAD>
+<script src="http://35506.fy.kf.qycn.com/vclient/state.php?webid=35506" language="javascript" type="text/javascript"></script>
+<FORM id=aspnetForm name=aspnetForm
+      onsubmit="javascript:return WebForm_OnSubmit();" action=default.aspx
+      method=post>
+<DIV></DIV>
+<SCRIPT type=text/javascript>
+    //<![CDATA[
+    var theForm = document.forms['aspnetForm'];
+    if (!theForm) {
+        theForm = document.aspnetForm;
+    }
+    function __doPostBack(eventTarget, eventArgument) {
+        if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+            theForm.__EVENTTARGET.value = eventTarget;
+            theForm.__EVENTARGUMENT.value = eventArgument;
+            theForm.submit();
+        }
+    }
+    //]]>
+</SCRIPT>
+
+<SCRIPT src="index.files/WebResource.axd" type=text/javascript></SCRIPT>
+
+<SCRIPT> var MSOWebPartPageFormName = 'aspnetForm';</SCRIPT>
+
+<SCRIPT language=JavaScript type=text/JavaScript>
+    <!--
+    var L_Menu_BaseUrl = "/German";
+    var L_Menu_LCID = "1031";
+    var L_Menu_SiteTheme = "Citrus";
+    //-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+    <!--
+    //-->
+</SCRIPT>
+
+<SCRIPT src="index.files/ScriptResource.axd" type=text/javascript></SCRIPT>
+
+<SCRIPT src="F:\商务\FIRMEN\FUAN富安\事故顾问\www4\index.files\ScriptResource(1).axd"
+        type=text/javascript></SCRIPT>
+
+<SCRIPT src="F:\商务\FIRMEN\FUAN富安\事故顾问\www4\index.files\ScriptResource(2).axd"
+        type=text/javascript></SCRIPT>
+
+<SCRIPT type=text/javascript>
+    //<![CDATA[
+    function WebForm_OnSubmit() {
+        UpdateFormDigest('\u002fGerman', 1440000);
+        return _spFormOnSubmitWrapper();
+        return true;
+    }
+    //]]>
+</SCRIPT>
+
+<DIV></DIV>
+<SCRIPT type=text/javascript>
+    //<![CDATA[
+    Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', document.getElementById('aspnetForm'));
+    Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+    //]]>
+</SCRIPT>
+
+<TABLE class=master cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD vAlign=top>
+<TABLE class=masterContent cellSpacing=0 cellPadding=0 width="100%">
+<TBODY>
+<TR>
+    <TD class=authoringRegion colSpan=2>
+        <DIV class=sharepointLogin></DIV>
+        <DIV class=console><!-- Console --><SPAN
+                id=ctl00_ctl15_publishingContext1></SPAN><!-- Console --></DIV>
+    </TD>
+</TR>
+<TR>
+    <TD colSpan=2>
+        <DIV class=logo>
+            <DIV id=ctl00_WPVariationSiteBanner
+                 __WebPartId="{6BE68F1E-267D-48FF-AE37-3EFC159E31F5}"><img src="images/SGGW.gif" width="239" height="100"></DIV>
+            <H1 class="STYLE58">交通事故、医疗事故、人身伤害事故一站式服务</H1>
+        </DIV>
+        <DIV style="CLEAR: both"></DIV>
+        <DIV class=topNavContainer>
+            <DIV class=topNavHolder><A
+                    href="http://www.bfu.ch/German/Seiten/default.aspx#zz1_GlobalNav_SkipLink"><IMG
+                    style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px"
+                    height=0 alt="Navigationslinks überspringen"
+                    src="index.files/WebResource.gif" width=0></A></DIV>
+            <DIV class=languageSwitcher>
+                <div align="left"><span class="STYLE57"><a href="http://www.shiguguwen.com/index.htm"> 首页 </a></span>
+                    <span class="STYLE57"><a href="http://www.shiguguwen.com/fxpg.htm">资料分析与评估</a></span><span
+                            class="STYLE52"><a href="http://www.shiguguwen.com/sfjd.htm">事故司法鉴定</a></span> <span
+                            class="STYLE52"><a href="http://www.shiguguwen.com/sszc.htm">一站式诉讼支持</a>
+                            <a href="http://www.shiguguwen.com/zjgw.htm">专家顾问</a>
+                             <a href="http://www.shiguguwen.com/hzjdjg.htm">合作鉴定机构</a>
+                            <a href="http://www.shiguguwen.com/hzls.htm">合作律师</a>
+                        <a
+                                href="http://www.shiguguwen.com/lx.htm">联系我们</a></span></div>
+            </DIV>
+            <DIV style="CLEAR: both"></DIV>
+        </DIV>
+    </TD>
+</TR>
+<TR>
+    <TD colSpan=2>
+        <DIV class=bar></DIV>
+        <DIV class=breadcrumb><SPAN
+                id=ctl00_PlaceHolderTitleBreadcrumb_siteMapPath><A
+                href="http://www.bfu.ch/German/Seiten/default.aspx#ctl00_PlaceHolderTitleBreadcrumb_siteMapPath_SkipLink"><IMG
+                style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px"
+                height=0 alt="Navigationslinks überspringen"
+                src="index.files/WebResource.gif" width=0></A></SPAN></DIV>
+    </TD>
+</TR>
+<TR>
+<TD vAlign=top><!-- Current Navigation --><A
+        href="http://www.bfu.ch/German/Seiten/default.aspx#zz2_CurrentNav_SkipLink"><IMG
+        style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px"
+        height=0 alt="Navigationslinks überspringen"
+        src="index.files/WebResource.gif" width=0></A>
+    <TABLE class="leftNav zz2_CurrentNav_2" id=zz2_CurrentNav
+           cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+        <TR id=zz2_CurrentNavn0 onkeyup=Menu_Key(this)
+            onmouseover=Menu_HoverRoot(this) onmouseout=Menu_Unhover(this)>
+            <TD>
+                <TABLE width="100%" border=0
+                       cellPadding=0 cellSpacing=0 class="leftNav1 zz2_CurrentNav_7 STYLE72">
+                    <TBODY>
+                    <TR>
+                        <TD height="24" style="WIDTH: 100%"><A
+                                class="zz2_CurrentNav_1 leftNav1 zz2_CurrentNav_6"
+                                style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none"
+                                href="http://www.shiguguwen.com/cspg.htm">车速鉴定报告评估</A></TD>
+                    </TR>
+                    </TBODY>
+                </TABLE>            </TD>
+        </TR>
+        <TR id=zz2_CurrentNavn1 onkeyup=Menu_Key(this)
+            onmouseover=Menu_HoverRoot(this) onmouseout=Menu_Unhover(this)>
+            <TD>
+                <TABLE width="100%" border=0
+                       cellPadding=0 cellSpacing=0 class="leftNav1 zz2_CurrentNav_7 STYLE72">
+                    <TBODY>
+                    <TR>
+                        <TD height="23" style="WIDTH: 100%"><A
+                                class="zz2_CurrentNav_1 leftNav1 zz2_CurrentNav_6"
+                                style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none"
+                                href="http://www.shiguguwen.com/yxzlpg.htm">医学资料评估</A></TD>
+                    </TR>
+                    </TBODY>
+                </TABLE>            </TD>
+        </TR>
+        <TR id=zz2_CurrentNavn2 onkeyup=Menu_Key(this)
+            onmouseover=Menu_HoverRoot(this) onmouseout=Menu_Unhover(this)>
+            <TD>
+                <TABLE width="100%" border=0
+                       cellPadding=0 cellSpacing=0 class="leftNav1 zz2_CurrentNav_7 STYLE72">
+                    <TBODY>
+                    <TR>
+                        <TD height="23" style="WIDTH: 100%"><A
+                                class="zz2_CurrentNav_1 leftNav1 zz2_CurrentNav_6"
+                                style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none"
+                                href="http://www.shiguguwen.com/sfjdzc.htm">司法鉴定支持</A></TD>
+                    </TR>
+                    </TBODY>
+                </TABLE>            </TD>
+        </TR>
+        <TR id=zz2_CurrentNavn3 onkeyup=Menu_Key(this)
+            onmouseover=Menu_HoverRoot(this) onmouseout=Menu_Unhover(this)>
+            <TD>
+                <TABLE width="100%" border=0
+                       cellPadding=0 cellSpacing=0 class="leftNav1 zz2_CurrentNav_7 STYLE72">
+                    <TBODY>
+                    <TR>
+                        <TD height="24" style="WIDTH: 100%"><A
+                                class="zz2_CurrentNav_1 leftNav1 zz2_CurrentNav_6"
+                                style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none"
+                                href="http://www.shiguguwen.com/zjzrfw.htm">专家证人服务</A></TD>
+                    </TR>
+                    </TBODY>
+                </TABLE>            </TD>
+        </TR>
+        <TR id=zz2_CurrentNavn4 onkeyup=Menu_Key(this)
+            onmouseover=Menu_HoverRoot(this) onmouseout=Menu_Unhover(this)>
+            <TD>
+                <TABLE width="100%" border=0
+                       cellPadding=0 cellSpacing=0 class="leftNav1 zz2_CurrentNav_7 STYLE72">
+                    <TBODY>
+                    <TR>
+                        <TD height="24" style="WIDTH: 100%"><A
+                                class="zz2_CurrentNav_1 leftNav1 zz2_CurrentNav_6"
+                                style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none"
+                                href="http://www.shiguguwen.com/swdh.htm">交通事故三维动画</A></TD>
+                    </TR>
+                    </TBODY>
+                </TABLE>            </TD>
+        </TR>
+        <TR id=zz2_CurrentNavn5 onkeyup=Menu_Key(this)
+            onmouseover=Menu_HoverRoot(this) onmouseout=Menu_Unhover(this)>
+            <TD>
+                <TABLE width="100%" border=0
+                       cellPadding=0 cellSpacing=0 class="leftNav1 zz2_CurrentNav_7 STYLE72">
+                    <TBODY>
+                    <TR>
+                        <TD height="23" style="WIDTH: 100%"><A
+                                class="zz2_CurrentNav_1 leftNav1 zz2_CurrentNav_6"
+                                style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none"
+                                href="http://www.shiguguwen.com/hxzfx.htm">汽车行驶记录仪数据分析</A></TD>
+                    </TR>
+                    </TBODY>
+                </TABLE>            </TD>
+        </TR>
+        </TBODY>
+    </TABLE>
+</TD>
+<TD vAlign=top width="100%">
+<DIV class=mainContainer id=ctl00_MSO_ContentDiv>
+<DIV class=mainContent>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TBODY>
+<TR>
+<TD vAlign=top>
+    <DIV class=CenterColumn>
+        <TABLE cellSpacing=0 cellPadding=0 width="100%">
+            <TBODY>
+            <TR>
+                <TD>
+                    <DIV
+                            id=ctl00_PlaceHolderMain_LeftColumnSummaryLinks__ControlWrapper_SummaryLinkFieldControl
+                            style="DISPLAY: inline">
+                        <SCRIPT language=javascript type=text/javascript>
+                            var slwp;
+                            if (slwp == null) slwp = new Array();
+                            slwp['ctl00_PlaceHolderMain_LeftColumnSummaryLinks_LeftColumnSummaryLinks'] = "WebForm_DoPostBackWithOptions\u0028new WebForm_PostBackOptions\u0028\u0022ctl00$PlaceHolderMain$LeftColumnSummaryLinks$LeftColumnSummaryLinks\u0022, \u0022SLWPToken\u0022, false, \u0022\u0022, \u0022\u0022, true, true\u0029\u0029";
+                        </SCRIPT>
+
+                        <TABLE class=slm-layout-main
+                               id=slwp_ctl00_PlaceHolderMain_LeftColumnSummaryLinks_LeftColumnSummaryLinks
+                               cellSpacing=0 cellPadding=0>
+                            <TBODY>
+                            <TR>
+                                <TD id=column vAlign=top width="7%">&nbsp;</TD>
+                                <TD id=column vAlign=top width="91%"><h1 align="center" class="STYLE70">律师合作提议 </h1>
+                                  <p align="left" class="STYLE73">一、关于富维事故顾问网 </p>
+                                  <DIV> 
+                                    <p>&nbsp;</p>
+                                    <p><span class="STYLE74"><span class="STYLE75">在交通、医疗等事故的法律诉讼中，经常会涉及到很多专业性问题，如：交通事故中的车速与事故发生原因；事故造成的人体伤残情况；人身伤害（死亡）与事故之间的因果关系，等等。这些专业性问题往往对理赔诉讼具有关键影响。</span></span></p>
+                                    <p><span class="STYLE74"><br>
+                                        <span class="STYLE75">富维事故顾问网（www.shiguguwen.com）是一个以处理事故中的专业性问题为特色的网站，我们的专业服务主要包括：</span></span></p>
+                                    <p><span class="STYLE74"><span class="STYLE75"><br>
+                                      ---专业资料的分析与评估（包括与事故现场有关的各种资料、各类司法鉴定报告、医学报告及其他医学资料等）<br>
+                                      ---司法鉴定支持<br>
+                                      ---专家证人服务</span></span></p>
+                                    <p>&nbsp;</p>
+                                    <p><span class="STYLE74"><span class="STYLE75">我们的专家团队由国内多个司法鉴定机构的技术负责人或技术骨干组成，可联合为委托人提供各种专业性问题的最优解决方案，必要情况下，还可提供专家证人出庭等深度支持。</span></span></p>
+                                    <p><span class="STYLE74"><span class="STYLE75"><br>
+                                      同时，我们与多个司法鉴定机构保持良好的关系，可根据委托人的实际情况，为其选择合适的鉴定机构。我们的专家将协助这些鉴定机构，提供严谨、客观的司法鉴定。</span></span></p>
+                                    <p><span class="STYLE74"><span class="STYLE75"><br>
+                                          <strong>二、合作提议</strong></span></span></p>
+                                    <p><span class="STYLE74"><span class="STYLE75"><br>
+                                      富维事故顾问网希望与您进行合作，双方优势互补、业务互荐，不仅能够增大胜诉概率、增加案源，而且能够提升双方对外影响力与吸引力。</span></span></p>
+                                    <p><span class="STYLE74"><span class="STYLE75"><br>
+                                      若您有合作意向，请下载</span></span><span class="STYLE76">“<a href="http://www.shiguguwen.com/lshz.doc" target="_blank">律师信息录入</a>”</span>，<span class="STYLE74"><span class="STYLE75">填写并发送至<span class="STYLE72">info@shiguguwen.com</span>，我们确认后会将您的信息放入网站。</span></span></p>
+                                    <p><span class="STYLE74"><span class="STYLE75"><br>
+                                      另外，希望您能够将事故顾问网的简介及网站链接放在您的个人网站或个人介绍资料中。对于积极推介事故顾问网的律师伙伴，我们会重点予以关注。</span></span></p>
+                                    <p><span class="STYLE74"><span class="STYLE75"><br>
+                                      如果您有进一步的合作想法，欢迎与我们单独沟通。</span></span><br>
+                                      </p>
+                                  </DIV>
+                                  <p align="left" class="STYLE69">&nbsp;</p>
+                                  <p align="left" class="STYLE69"> <br>
+                                    <strong>附：富维事故顾问网的部分专业服务内容</strong><br><br>
+                                    1、接案前的专业评估 <br>
+                                    协助律师及其委托人评估损害后果及诉讼标的,指导收集鉴定需要的有效证据。 </p>
+                                  <p align="left" class="STYLE69">&nbsp;</p>
+                                  <p align="left" class="STYLE69">2、司法鉴定报告评估 <br>
+                                    对车速鉴定报告、医学鉴定报告或其他类型鉴定报告的正确性进行评估；必要情况下，提供专家证人出庭服务。 </p>
+                                  <p align="left" class="STYLE69">&nbsp;</p>
+                                  <p align="left" class="STYLE69">3、在对保险公司提起理赔诉讼时，为原告方提供专业支持 <br>
+                                    保险公司为了尽可能减少保险赔付，一般会提出各种拒赔理由。很多时候，这些拒赔理由是站不住脚的，但仅凭当事人或律师的力量，很难从专业的角度与保险公司抗衡。我们可利用我们的专业优势，协助律师来支持当事人。 </p>
+                                  <p align="left" class="STYLE69">&nbsp;</p>
+                                  <p align="left" class="STYLE69">4、针对原告方提起的索赔诉讼，为被告方提供专业支持 <br>
+                                    这些支持包括：事故发生原因是什么？事故中的车速多少？原告方的伤害是否为此次交通事故造成？是否为自身疾病？医疗费是否合理?住院时间是否过长？如何准备鉴定资料及交通事故鉴定程序？伤者伪装如何处理？如何申请重新鉴定？等等。</p>
+                                  <p align="left" class="STYLE69">&nbsp;</p>
+                                  <p class="STYLE66">&nbsp;</p>
+
+                                    <p class="STYLE66">&nbsp;</p>
+
+                                    <p class="STYLE66">&nbsp;</p></TD>
+                                <TD id=column vAlign=top width="2%">
+                                    <DIV class=summarylinks-contenholder-noborder>
+                                        <DIV class=item id=linkitem>
+                                            <DIV class=link-item>
+                                                <p align="left">&nbsp;</p>
+
+                                                <p class="STYLE59">&nbsp;</p>
+
+                                                <p class="STYLE59">&nbsp;</p>
+                                </TD>
+                            </TR>
+                            </TBODY>
+                        </TABLE>
+                    </DIV>
+                </TD>
+            </TR>
+            </TBODY>
+        </TABLE>
+    </DIV>
+</TD>
+<TD vAlign=top>
+    <DIV class=RightColumn>
+        <DIV class=searchTitle>在线支持</DIV>
+        <DIV class=search>
+            <p>QQ： 1691536817（当事人）<br>
+                QQ： 2408074781（律师律所）<br>
+                QQ： 2253578837（鉴定机构）<BR>
+            </p>
+        </DIV>
+        <DIV __WebPartId="{BE0AAFB9-0117-476A-B548-5C7081F8F758}"
+             NomItemsToShow="5"></DIV>
+        <DIV
+                id=ctl00_PlaceHolderMain_RightColumnSummaryLinks__ControlWrapper_SummaryLinkFieldControl
+                style="DISPLAY: inline">
+            <SCRIPT language=javascript type=text/javascript>
+                var slwp;
+                if (slwp == null) slwp = new Array();
+                slwp['ctl00_PlaceHolderMain_RightColumnSummaryLinks_RightColumnSummaryLinks'] = "WebForm_DoPostBackWithOptions\u0028new WebForm_PostBackOptions\u0028\u0022ctl00$PlaceHolderMain$RightColumnSummaryLinks$RightColumnSummaryLinks\u0022, \u0022SLWPToken\u0022, false, \u0022\u0022, \u0022\u0022, true, true\u0029\u0029";
+            </SCRIPT>
+
+            <TABLE class=slm-layout-main
+                   id=slwp_ctl00_PlaceHolderMain_RightColumnSummaryLinks_RightColumnSummaryLinks
+                   cellSpacing=0 cellPadding=0>
+                <TBODY>
+                <TR></TR>
+                </TBODY>
+            </TABLE>
+            <DIV>
+                <DIV id=footer></DIV>
+            </DIV>
+        </DIV>
+        <DIV class=relatedTitle></DIV>
+        <DIV
+                id=ctl00_PlaceHolderMain_RightColumnSummaryDownloads__ControlWrapper_SummaryLinkFieldControl
+                style="DISPLAY: inline">
+            <SCRIPT language=javascript type=text/javascript>
+                var slwp;
+                if (slwp == null) slwp = new Array();
+                slwp['ctl00_PlaceHolderMain_RightColumnSummaryDownloads_RightColumnSummaryDownloads'] = "WebForm_DoPostBackWithOptions\u0028new WebForm_PostBackOptions\u0028\u0022ctl00$PlaceHolderMain$RightColumnSummaryDownloads$RightColumnSummaryDownloads\u0022, \u0022SLWPToken\u0022, false, \u0022\u0022, \u0022\u0022, true, true\u0029\u0029";
+            </SCRIPT>
+
+            <TABLE class=slm-layout-main
+                   id=slwp_ctl00_PlaceHolderMain_RightColumnSummaryDownloads_RightColumnSummaryDownloads
+                   cellSpacing=0 cellPadding=0>
+                <TBODY>
+                <TR>
+                    <TD id=column vAlign=top width="100%">
+                        <DIV class=slm-layout-main id=group>
+                            <DIV class=summarylinks-contentholder>
+                                <DIV class=item id=linkitem>
+                                    <DIV class=image-area-left>
+                                        <p>&nbsp;</p>
+
+                                        <p align="left"><img src="images/y1_jiaotongguwen_xiao.gif"
+                                                             width="169" height="113"></p>
+                                    </DIV>
+                                    <DIV class=link-item>
+                                        <H2 align="center">交通事故顾问</H2>
+
+                                        <DIV class=description></DIV>
+                                    </DIV>
+                                    <DIV style="CLEAR: both"></DIV>
+                                </DIV>
+                            </DIV>
+                            <DIV class=summarylinks-contentholder>
+                                <DIV class=item id=linkitem>
+                                    <DIV class=image-area-left><A
+                                            href="http://www.turboschlaf.ch/" target=_blank></A>
+                                    </DIV>
+                                    <div align="left">
+                                        <p>&nbsp;</p>
+
+                                        <p><img src="images/y2_yiliaoguwen_xiao.gif" width="171"
+                                                height="113"></p>
+                                    </div>
+                                    <DIV class=link-item>
+                                        <H2 align="center">医疗事故顾问</H2>
+
+                                        <DIV class=description></DIV>
+                                    </DIV>
+                                    <DIV style="CLEAR: both"></DIV>
+                                </DIV>
+                            </DIV>
+                            <DIV class=summarylinks-contentholder>
+                                <DIV class=item id=linkitem>
+                                    <DIV class=link-item>
+                                        <H2 align="center">&nbsp;</H2>
+
+                                        <H2 align="center"><img
+                                                src="images/y3_yizhanshisusongguwen_xiao.gif"
+                                                width="152" height="166"></H2>
+
+                                        <DIV class=link-item STYLE66>
+                                            <p align="center" class="STYLE65">一站式法律诉讼顾问</p>
+                                        </DIV>
+                                        <p>&nbsp;</p>
+                                    </DIV>
+                                    <DIV style="CLEAR: both"></DIV>
+                                </DIV>
+                            </DIV>
+                            <DIV
+                                    id=footer></DIV>
+                        </DIV>
+                    </TD>
+                </TR>
+                </TBODY>
+            </TABLE>
+        </DIV>
+    </DIV>
+</TD>
+<TD class=SpacerColumn></TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV>
+</DIV>
+</TD>
+</TR>
+<TR>
+    <TD colSpan=2>
+        <DIV class=footer>
+            <DIV class=footer-box>&nbsp;
+                <div align="center"><img src="images/banquan.gif" width="390" height="39"></div>
+                <div align="center">&nbsp;<IMG
+                        alt=Drucken src="index.files/icon_print.gif"> <A title=Drucken
+                                                                         href="javascript:window.print();">&nbsp;</A><A
+                        href="javascript:window.print();"
+                        title=Print class="STYLE59">打印</A></div>
+            </DIV>
+        </DIV>
+    </TD>
+</TR>
+</TBODY>
+</TABLE>
+</TD>
+</TR>
+</TBODY>
+</TABLE>
+<SCRIPT src="index.files/gatag.js" type=text/javascript></SCRIPT>
+
+<SCRIPT type=text/javascript>
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</SCRIPT>
+
+<SCRIPT type=text/javascript>
+    try {
+        var pageTracker = _gat._getTracker("UA-4489889-2");
+        pageTracker._trackPageview();
+    } catch (err) {
+    }</SCRIPT>
+
+<SCRIPT type=text/javascript>
+    //<![CDATA[
+    var __wpmExportWarning = 'Diese Webpart-Seite wurde personalisiert. Infolgedessen können eine oder mehrere Webpart-Eigenschaften vertrauliche Informationen enthalten. Stellen Sie sicher, dass die Eigenschaften Informationen enthalten, die von anderen gelesen werden dürfen. Nachdem Sie dieses Webpart exportiert haben, zeigen Sie Eigenschaften in der Webpart-Beschreibungsdatei (.WebPart) an. Verwenden Sie dazu einen Text-Editor (z.B. den Microsoft-Editor).';
+    var __wpmCloseProviderWarning = 'Sie sind im Begriff, dieses Webpart zu schließen. Es liefert derzeit Daten für andere Webparts, und diese Verbindungen werden gelöscht, wenn dieses Webpart geschlossen wird. Klicken Sie auf \"OK\", um dieses Webpart zu schließen. Klicken Sie auf \"Abbrechen\", um dieses Webpart beizubehalten.';
+    var __wpmDeleteWarning = 'Sie sind im Begriff, dieses Webpart dauerhaft zu löschen. Möchten Sie diesen Vorgang wirklich ausführen? Klicken Sie auf \"OK\", um dieses Webpart zu löschen. Klicken Sie auf \"Abbrechen\", um dieses WebPart beizubehalten.';
+    var zz1_GlobalNav_Data = new Object();
+    zz1_GlobalNav_Data.disappearAfter = 500;
+    zz1_GlobalNav_Data.horizontalOffset = 0;
+    zz1_GlobalNav_Data.verticalOffset = -8;
+    zz1_GlobalNav_Data.hoverClass = 'zz1_GlobalNav_13 topNavFlyOutsHover';
+    zz1_GlobalNav_Data.hoverHyperLinkClass = 'zz1_GlobalNav_12 topNavFlyOutsHover';
+    zz1_GlobalNav_Data.staticHoverClass = 'zz1_GlobalNav_11 topNavHover';
+    zz1_GlobalNav_Data.staticHoverHyperLinkClass = 'zz1_GlobalNav_10 topNavHover';
+    if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function') {
+        _spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+        Menu_HoverStatic = overrideMenu_HoverStatic;
+    }
+    var flyoutsAllowed = false;
+    function enableFlyoutsAfterDelay() {
+        setTimeout('flyoutsAllowed = true;', 50);
+    }
+    function overrideMenu_HoverStatic(item) {
+        if (!flyoutsAllowed || (document.readyState != null && document.readyState != 'complete')) {
+            setTimeout(delayMenu_HoverStatic(item), 50);
+        }
+        else {
+// this code is the default ASP.NET implementation of Menu_HoverStatic
+            var node = Menu_HoverRoot(item);
+            var data = Menu_GetData(item);
+            if (!data) return;
+            __disappearAfter = data.disappearAfter;
+            Menu_Expand(node, data.horizontalOffset, data.verticalOffset);
+        }
+    }
+    function delayMenu_HoverStatic(item) {
+        return (function () {
+            overrideMenu_HoverStatic(item);
+        });
+    }
+    zz1_GlobalNav_Data.iframeUrl = '/_layouts/images/blank.gif';
+    var zz2_CurrentNav_Data = new Object();
+    zz2_CurrentNav_Data.disappearAfter = 500;
+    zz2_CurrentNav_Data.horizontalOffset = 0;
+    zz2_CurrentNav_Data.verticalOffset = 0;
+    zz2_CurrentNav_Data.hoverClass = 'zz2_CurrentNav_19 leftNavFlyOutsHover';
+    zz2_CurrentNav_Data.hoverHyperLinkClass = 'zz2_CurrentNav_18 leftNavFlyOutsHover';
+    zz2_CurrentNav_Data.staticHoverClass = 'zz2_CurrentNav_17 leftNavHover';
+    zz2_CurrentNav_Data.staticHoverHyperLinkClass = 'zz2_CurrentNav_16 leftNavHover';
+    zz2_CurrentNav_Data.iframeUrl = '/_layouts/images/blank.gif';
+    Sys.Application.initialize();
+    //]]>
+</SCRIPT>
+</FORM>
+</BODY>
+</HTML>

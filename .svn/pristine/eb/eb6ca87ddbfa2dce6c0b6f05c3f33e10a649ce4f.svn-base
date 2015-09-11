@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+ <html xmlns="http://www.w3.org/1999/xhtml">
+
+ <head>
+
+ <meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+
+ <title>无限滚动代码</title>
+
+ <style type="text/css">
+
+ *{padding:0; margin:0;}
+
+ #roll{ border:1px;height:160px; width:180px; overflow:hidden;list-style:none;}
+
+ #roll li{height:30px; padding-left:10px;line-height:30px; border-bottom:1px solid #ddd;}
+
+ a{font-size:12px; text-decoration:none; font-family:'宋体';}
+
+ </style>
+
+ </head>
+
+
+
+ <body>
+
+   <ol id="roll">
+
+     <li><a href="newsarea.action?id=1">河北 三车相撞事故</a></li>
+
+     <li><a href="newsarea.action?id=2">新闻2</a></li>
+
+     <li><a href="newsarea.action">新闻3</a></li>
+
+     <li><a href="newsarea.action">新闻4</a></li>
+
+     <li><a href="newsarea.action">新闻5</a></li>
+
+     <li><a href="newsarea.action">新闻6</a></li>
+
+     <li><a href="newsarea.action">新闻7</a></li>
+
+     <li><a href="newsarea.action">新闻8</a></li>
+
+     <li><a href="newsarea.action">新闻9</a></li>
+
+     <li><a href="newsarea.action">新闻10</a></li>
+
+
+   </ol>
+
+   <div id="bug"></div>
+
+ </body>
+
+ <script type="text/javascript">
+
+ (function(A){
+
+    function _ROLL(obj){
+
+       this.ele = document.getElementById(obj);
+
+       this.interval = false;
+
+       this.currentNode = 0; //当前节点
+
+       this.passNode = 0; //已过节点
+
+       this.speed = 100;
+
+       this.childs = _childs(this.ele);
+
+       this.childHeight = parseInt(_style(this.childs[0])['height']);
+
+       //绑定函数
+
+           addEvent(this.ele,'mouseover',function(){
+
+                                                window._loveYR.pause();
+
+                                             });
+
+           addEvent(this.ele,'mouseout',function(){
+
+                                                window._loveYR.start(_loveYR.speed);
+
+                                             });
+
+    }
+
+    /*辅助函数*/
+
+    function _style(obj){
+
+      return obj.currentStyle || document.defaultView.getComputedStyle(obj,null);
+
+    }
+
+    function _childs(obj){
+
+       var childs = [];
+
+       for(var i=0;i<obj.childNodes.length;i++){
+
+          var _this = obj.childNodes[i];
+
+          if(_this.nodeType===1){
+
+             childs.push(_this);
+
+          }
+
+       }
+
+       return childs;
+
+    }
+
+     function addEvent(elem,evt,func){
+
+        if(-[1,]){
+
+            elem.addEventListener(evt,func,false);
+
+        }else{
+
+            elem.attachEvent('on'+evt,func);
+
+        };
+
+     }
+
+     function innerest(elem){
+
+       var c = elem;
+
+       while(c.childNodes.item(0).nodeType==1){
+
+           c = c.childNodes.item(0);
+
+       }
+
+       return c;
+
+     }
+
+    /*
+
+      扩展_ROLL属性
+
+    */
+
+    _ROLL.prototype = {
+
+       start:function(s){
+
+               var _this = this;
+
+               _this.speed = s || 100;
+
+               _this.interval = setInterval(function(){
+
+                             _this.ele.scrollTop += 1;
+
+                             _this.passNode++;
+
+                             if(_this.passNode%_this.childHeight==0){
+
+                                   var o = _this.childs[_this.currentNode] || _this.childs[0];
+
+                                   _this.currentNode<(_this.childs.length-1)?_this.currentNode++:_this.currentNode=0;
+
+                                   _this.passNode = 0;
+
+                                   _this.ele.scrollTop = 0;
+
+                                   _this.ele.appendChild(o);
+
+                             }
+
+                           },_this.speed);
+
+       },
+
+       pause:function(){
+
+          var _this = this;
+
+          clearInterval(_this.interval);
+
+       }
+
+    }
+
+
+
+    /*创建一个全局对象*/
+
+    A.marqueen = function(obj){A._loveYR = new _ROLL(obj); return A._loveYR;}
+
+ })(window);
+
+
+
+ marqueen('roll').start(100/*速度默认100*/);
+
+ </script>
+
+ </html>

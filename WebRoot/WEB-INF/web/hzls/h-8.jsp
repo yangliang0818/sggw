@@ -1,0 +1,60 @@
+<%@ taglib prefix="s" uri="/struts-tags" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>交通事故_医疗事故_伤残鉴定_事故咨询_事故问-遇到事故你就问</title>
+    <link rel="stylesheet" href="http://www.shiguwen.com/css/jquery.mobile-1.4.0-rc.1.css">
+    <link rel="stylesheet" href="http://www.shiguwen.com/css/web/mobile.css">
+    <!--必须框架jquery,jquery.mobile-->
+    <script type="text/javascript" src="http://www.shiguwen.com/js/jquery.js"></script>
+    <script type="text/javascript" src="http://www.shiguwen.com/js/jquery.mobile-1.4.0-rc.1.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            /*下拉菜单效果*/
+            $(".ui-block-a:eq(0),.ui-block-b:eq(0),.ui-block-c:eq(0),.ui-block-d:eq(0),.ui-block-e:eq(0)").hover(function () {
+                $(this).find("ul").removeClass("ui-grid-c").show();
+            }, function () { $(this).find("ul").hide(); });
+        });
+    </script>
+</head>
+<body>
+<div data-role="page">
+    <!--网站标题及相关导航-->
+    <div id="head" data-role="header" data-theme="b">
+        <jsp:include page="../head.jsp" flush="false"></jsp:include>
+    </div>
+    <div class="ui-content" style="font-size: 14px; line-height: 1.8">
+        <h3 style="color: #ab7c12">
+            湖南湘潭产妇死亡事件的法律分析
+        </h3>
+        <p align="center">本文作者：事故问合作律师 上海脱颖律师事务所律师 钟艳</p>
+        <p align="center"><img src="http://www.shiguwen.com/images/hzls/h-8.jpg" alt="" width="400px" height="180px"></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（转载自网络新闻）8月10日下午，湘潭县妇幼保健医院一名张姓产妇，在做剖腹产手术时，因术后大出血不幸死亡。 “我们认为她是非正常死亡，医院存在很大责任，如果发现及时不至于死亡，也不至于隐瞒我们这么久。”张女士的家属认为，医生在抢救方面存在问题，但医院方面一直没给家属一个关于推迟死亡时间原因的确切答复。图为得知产妇死亡，却见不到产妇的家属在医院外拉横幅。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事发后，相关部门和家属进行谈判，据《法制晚报》报道，院方愿承担80%的责任，赔偿53.6万，另有20%的责任由死者承担，但是多次谈判后仍未果。另有媒体报道，家属索赔120万，院方表示暂不能接受。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13日医院和家属双方又进行了一次谈判，到下午6点，湘潭县一名副县长提出“赔偿”56万元，但家属仍不同意，家属的最新要求是98万元。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据中国之声《新闻纵横》报道，湖南湘潭县妇幼保健院的产妇死亡事件已经发生数日，事件的详情仍在调查当中。14日晚上8点左右，经医疗纠纷技术鉴定组与死者张宇家属沟通协商，死者家属同意进行尸体解剖，并履行了法定手续。湘潭市法检所法医于晚上9点30分左右在湘潭市殡仪馆进行了尸体解剖，晚上11点解剖完成，解剖标本由市法检所保管。患者家属对鉴定程序没有异议并确认签字，同时也抽取了相关鉴定专家。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该事件是一起典型的医疗纠纷案件。网络上对于该事件的报道铺天盖地，各种声音充斥其中，有谩骂医疗工作人员不负责任的，有谴责媒体不实报道的，也有质疑家属不良用心的。笔者在此不做任何评述，仅就该事件涉及的法律问题浅做分析。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.　该事件是否构成医疗损害？</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010年7月1日《中华人民共和国侵权责任法》实施以前，医疗侵权诉讼中，人民法院委托医学会进行的鉴定，称为“医疗事故技术鉴定”，委托司法鉴定机构进行的鉴定称为“医疗过错司法鉴定”。最高人民法院于2010年6月30日发布的《关于适用侵权责任法若干问题的通知》规定：人民法院适用《侵权责任法》审理民事纠纷案件，根据当事人的申请或者依职权决定进行鉴定的，统一称为医疗损害鉴定。之所以有此改变，是因为按照《侵权责任法》的规定，构成医疗事故已不再是医疗损害侵权责任的构成要件，也就是说，医院在医疗活动中存在过错导致患者人身损害的，患方都可依据《侵权责任法》提起侵权诉讼并要求赔偿，这对于患方的人身保障起到了更全面的保护。医疗损害鉴定意见一般包括医疗机构的诊疗行为有无过错；医疗过错行为与损害结果之间是否存在因果关系；医疗过错行为在损害结果中的责任程度；人体损伤残疾程度等内容。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，要确定该事件是否构成医疗损害，还需等待专业的鉴定结果，鉴定结果会对医疗机构在整个事件中的处理方式及治疗过程做专业的评析，至于网络上疯传的对于医院是否及时向患方出具“病危通知书”、“死亡通知书”，医院是否及时与患方沟通治疗方案等细节，鉴定机构都会调查，医院需提供真实有效的证据来证明。《侵权责任法》规定：医务人员在诊疗活动中应当向患者说明病情和医疗措施。需要实施手术、特殊检查、特殊治疗的，医务人员应当及时向患者说明医疗风险、替代医疗方案等情况，并取得其书面同意；不宜向患者说明的，应当向患者的近亲属说明，并取得其书面同意。医务人员未尽到前款义务，造成患者损害的，医疗机构应当承担赔偿责任。另外，患者有损害，因下列情形之一的，医疗机构不承担赔偿责任：</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（一）患者或者其近亲属不配合医疗机构进行符合诊疗规范的诊疗；</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）医务人员在抢救生命垂危的患者等紧急情况下已经尽到合理诊疗义务；</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（三）限于当时的医疗水平难以诊疗。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前款第一项情形中，医疗机构及其医务人员也有过错的，应当承担相应的赔偿责任。有报道称，医院通知家属必须立即摘除患者的子宫时，家属考虑了数小时方才在手术同意书上签字。摘除子宫这一治疗方案正是羊水栓塞这一危重疾病的重要治疗措施，通过摘除子宫可立即切断污染物进入产妇血液循环的直接通道，处理及时的话，对于病情进展有直接缓解的作用。因此，若该报道属实的话，患方可能承担相应的不良后果。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 关于赔偿数额</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据《侵权责任法》规定：侵害他人造成人身损害的，应当赔偿医疗费、护理费、交通费等为治疗和康复支出的合理费用，以及因误工减少的收入。造成残疾的，还应当赔偿残疾生活辅助具费和残疾赔偿金。造成死亡的，还应当赔偿丧葬费和死亡赔偿金。另外，侵害他人人身权益，造成他人严重精神损害的，被侵权人可以请求精神损害赔偿。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中，医疗费不包括治疗原发病所产生的费用，患方需提供医疗费的相关凭据。死亡赔偿金按照受诉法院所在地上一年度城镇居民人均可支配收入或者农村居民人均纯收入标准，按20年计算。根据湘潭市统计局公布的《湘潭市2013年国民经济和社会发展统计公报》全市城镇居民人均可支配收入24810元；农村居民人均可支配收入12673元。那么本案的死亡赔偿金为496200元（城镇户口）或253460元（农村户口）。关于丧葬费，按照受诉法院所在地上一年度职工月平均工资的六个月总额计算，2013年湘潭市城镇居民人均工资性收入为13866.46元，农村居民人均工资性收入6683.01元，那么本案的丧葬费为6933.23元（城镇户口）或3341元（农村户口）。造成患者死亡的，可要求赔偿精神损失费50000元。以上费用将根据鉴定结果认定的医院的过错责任分级按比例支付。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;早前的报道中提到，院方愿意承担80%的赔偿责任即53.6万，80%的赔偿比例相当于医院在本起医疗纠纷中承担主要责任。对于患方而言，应当理性并合理地估算索赔额，在可预知的数额范围内主张，一味地坚持远高于法定赔偿额的数额，只会得不偿失。因为索赔额直接跟诉讼费和律师费相关。</p>
+    </div>
+    <!--底部版权信息-->
+    <div data-role="footer" data-position="fixed" data-tap-toggle="false">
+        <jsp:include page="../footer.jsp"></jsp:include>
+    </div>
+</div>
+</body>
+</html>
