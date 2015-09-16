@@ -19,10 +19,10 @@ public class DB2DB {
     public static final ThreadLocal<Boolean> dbLocal = new ThreadLocal();
 
     public static void main(String[] args) throws Exception {
-        //deleteSrcTable(objconn, TableEnum.登记律师表.tabname);
-        /*dbLocal.set(true);
-        bakDB(TableEnum.投诉建议信息表);*/
-        bakFullDB();
+        /*deleteSrcTable(objconn, TableEnum.登记律师表.tabname);
+        dbLocal.set(true);*/
+        bakDB(TableEnum.提交记录统计表);
+        //bakFullDB();
     }
 
     //源库
@@ -33,7 +33,7 @@ public class DB2DB {
     static {
         try {
             srcconn = BaseDao.getConnnection(BaseDao.DBEnum.美橙上海生产环境);
-            objconn = BaseDao.getConnnection(BaseDao.DBEnum.本地开发环境);
+            objconn = BaseDao.getConnnection(BaseDao.DBEnum.美橙香港生产环境);
             //是否备份结束标志 默认为false表示未结束 为true时关闭流
             dbLocal.set(false);
             //2.备份表djls
@@ -61,7 +61,7 @@ public class DB2DB {
         省份信息表("province", "select id,simplename,name,status from province", "insert into province(id,simplename,name,status) values(?,?,?,?)", 4),
         接待处信息表("servarea", "select id,province,areaname,address,phone from servarea", "insert into servarea(id,province,areaname,address,phone) values(?,?,?,?,?)", 5),
         留言信息表("shiguwen", "select id,ifToll,duty,ifHaveContro,accidentJudge,judgeIfContro,accidentIfContro,phone,content from shiguwen", "insert into shiguwen(id,ifToll,duty,ifHaveContro,accidentJudge,judgeIfContro,accidentIfContro,phone,content) values(?,?,?,?,?,?,?,?,?)", 9),
-        //提交记录统计表("tjtj", "select id,type,ttime,stime,tstime from tjtj", "insert into tjtj(id,type,ttime,stime,tstime) values(?,?,?,?,?)", 5),
+        提交记录统计表("tjtj", "select id,type,ttime,stime,tstime from tjtj", "insert into tjtj(id,type,ttime,stime,tstime) values(?,?,?,?,?)", 5),
         投诉建议信息表("tsjy", "select id,type,name,phone,content,date from tsjy", "insert into tsjy(id,type,name,phone,content,date) values(?,?,?,?,?,?)", 6);
         //表名
         String tabname;
