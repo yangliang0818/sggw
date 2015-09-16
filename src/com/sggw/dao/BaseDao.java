@@ -19,8 +19,8 @@ public class BaseDao {
     protected static Connection conn;
 
     public static enum DBEnum {
-        美橙香港生产环境("jdbc:mysql://58.64.138.108:3306/sq_shiguwen?characterEncoding=utf8", "sq_shiguwen", "sgw20130922"),
         美橙上海生产环境("jdbc:mysql://114.80.215.229:3306/sq_shiguwencom?characterEncoding=utf8", "sq_shiguwencom", "Aa12345678"),
+        美橙香港生产环境("jdbc:mysql://58.64.138.108:3306/sq_shiguwenhk?characterEncoding=utf8", "sq_shiguwenhk", "Sgw12345"),
         雪狼生产环境("jdbc:mysql://210.209.80.41:3306/fwsggw", "fwsggw", "sggw123456"),
         本地开发环境("jdbc:mysql://localhost:3306/sggw?characterEncoding=gbk", "root", "");
         String username;
@@ -107,5 +107,10 @@ public class BaseDao {
         statement.close();
         conn.close();
         rs.close();
+    }
+
+    public static void main(String[] args) throws Exception {
+        Connection conn = getConnnection(DBEnum.美橙香港生产环境);
+        System.out.println(conn.toString());
     }
 }
